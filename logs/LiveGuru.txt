@@ -1,0 +1,1 @@
+[INFO ] [2022-01-11 19:26:25,981] Register 1 - Step 01: Open Register Page 

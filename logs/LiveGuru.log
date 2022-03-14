@@ -1,0 +1,1295 @@
+[INFO ] [2021-10-24 23:52:48,546] Register 1 - Step 01: Open Register Page 
+[INFO ] [2021-10-24 23:52:50,358] Register 1 - Step 02: Click Register button 
+[INFO ] [2021-10-24 23:52:50,665] Register 1 - Step 03: Verify Error Message on required fields 
+[INFO ] [2021-10-24 23:52:50,780]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:52:50,879]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:52:50,959]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:52:51,023]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:52:51,089]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:52:51,345] Register 2 - Step 01: Reload Register Page 
+[INFO ] [2021-10-24 23:52:51,345] Register 2 - Step 02: Input in Firstname field with value Automation
+[INFO ] [2021-10-24 23:52:51,587] Register 2 - Step 03: Input in Lastname field with value FC
+[INFO ] [2021-10-24 23:52:51,741] Register 2 - Step 04: Input in Email Address field with value 'AutomationFC@gmail'
+[INFO ] [2021-10-24 23:52:51,890] Register 2 - Step 05: Input in Password field with value '123'
+[INFO ] [2021-10-24 23:52:52,006] Register 2 - Step 06: Input in Confirm Password field with value '123'
+[INFO ] [2021-10-24 23:52:52,126] Register 2 - Step 07: Click on Register button
+[INFO ] [2021-10-24 23:52:52,208] Register 2 - Step 08: Verify error message displays at Email Address field
+[INFO ] [2021-10-24 23:52:52,289]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:52:52,290] Register 2 - Step 09: Verify error message displays at Password field
+[INFO ] [2021-10-24 23:52:52,387]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:52:52,394] Register 3 - Step 01: Reload Register Page 
+[INFO ] [2021-10-24 23:52:52,394] Register 3 - Step 02: Input in Firstname field with value Automation
+[INFO ] [2021-10-24 23:52:52,562] Register 3 - Step 03: Input in Lastname field with value FC
+[INFO ] [2021-10-24 23:52:52,701] Register 3 - Step 04: Input in Email Address field with value automationFC325194@xyz.com
+[INFO ] [2021-10-24 23:52:52,880] Register 3 - Step 05: Input in Password field with value 123123
+[INFO ] [2021-10-24 23:52:53,015] Register 3 - Step 06: Input in Confirm Password field with value 123123432928
+[INFO ] [2021-10-24 23:52:53,174] Register 3 - Step 07: Click on Register button
+[INFO ] [2021-10-24 23:52:53,287] Register 3 - Step 08: Verify error message displays at Confirm Password field
+[INFO ] [2021-10-24 23:52:53,354]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:52:53,360] Register 4 - Step 01: Reload Register Page 
+[INFO ] [2021-10-24 23:52:53,360] Register 4 - Step 02: Input in Firstname field with value Automation
+[INFO ] [2021-10-24 23:52:53,506] Register 4 - Step 03: Input in Lastname field with value FC
+[INFO ] [2021-10-24 23:52:53,629] Register 4 - Step 04: Input in Email Address field with value automationFC325194@xyz.com
+[INFO ] [2021-10-24 23:52:53,793] Register 4 - Step 05: Input in Password field with value 123123
+[INFO ] [2021-10-24 23:52:53,925] Register 4 - Step 06: Input in Confirm Password field with value 123123
+[INFO ] [2021-10-24 23:52:54,088] Register 4 - Step 06: Select Signup for Newsletter checkbox
+[INFO ] [2021-10-24 23:52:54,192] Register 4 - Step 08: Click on Register button
+[INFO ] [2021-10-24 23:52:55,828] Register 4 - Step 09: Verify Success message displays on My Dashboard page
+[INFO ] [2021-10-24 23:52:56,109]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:52:56,114] OS name = mac os x
+[INFO ] [2021-10-24 23:52:56,288] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-10-24 23:52:59,384] Pre-condition - Step 01: Click on Account menu
+[INFO ] [2021-10-24 23:52:59,478] Pre-condition - Step 02: Open Log In Page from Account menu
+[INFO ] [2021-10-24 23:53:00,649] Login 1 - Step 01: Click on Login button
+[INFO ] [2021-10-24 23:53:00,877] Login 1 - Step 02: Verify required error message displays at Email Address field
+[INFO ] [2021-10-24 23:53:00,971]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:00,972] Login 1 - Step 03: Verify required error message displays at Password field
+[INFO ] [2021-10-24 23:53:01,010]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:01,016] Login 2 - Step 01: Input Email Address textbox with value gmlogin123@gmail.com
+[INFO ] [2021-10-24 23:53:01,279] Login 2 - Step 02: Input Password textbox with value '123'
+[INFO ] [2021-10-24 23:53:01,401] Login 3 - Step 03: Click on Login button
+[INFO ] [2021-10-24 23:53:01,488] Login 2 - Step 04: Verify validation error message displayes at Password field
+[INFO ] [2021-10-24 23:53:01,520]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:01,527] Login 3 - Step 01: Input Email Address Textbox with value 'gmlogin123@gmail'
+[INFO ] [2021-10-24 23:53:01,705] Login 3 - Step 02: Input Password Textbox with value 123123
+[INFO ] [2021-10-24 23:53:01,841] Login 3 - Step 03: Click on Login button
+[INFO ] [2021-10-24 23:53:01,938] Login 3 - Step 04: Verify validation error message displays at Email Adress field
+[INFO ] [2021-10-24 23:53:01,981]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:01,986] Login 4 - Step 01: Input Email Address Textbox with value gmlogin123@gmail.com279299
+[INFO ] [2021-10-24 23:53:02,135] Login 4 - Step 02: Input Password Textbox with value 12312393510
+[INFO ] [2021-10-24 23:53:02,261] Login 4 - Step 03: Click on Login button
+[INFO ] [2021-10-24 23:53:03,680] Login 4 - Step 04: Verify error message displays under page title
+[INFO ] [2021-10-24 23:53:03,706]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:03,712] Login 5 - Step 01: Input Email Address Textbox with value gmlogin123@gmail.com
+[INFO ] [2021-10-24 23:53:04,091] Login 5 - Step 02: Input Password Textbox with value 123123
+[INFO ] [2021-10-24 23:53:04,214] Login 5 - Step 03: Click on Login button
+[INFO ] [2021-10-24 23:53:05,651] Login 5 - Step 04: Verify My Dashboard page title displays
+[INFO ] [2021-10-24 23:53:05,897]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:05,897] Login 5 - Step 05: Verify Welcome Message displays
+[INFO ] [2021-10-24 23:53:05,926]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:05,928] OS name = mac os x
+[INFO ] [2021-10-24 23:53:06,107] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-10-24 23:53:10,334] Price Display - Step 01: Click on 'Mobile' menu
+[INFO ] [2021-10-24 23:53:11,849] Price Display - Step 02: Get price of 'Sony Xperia' mobile
+[INFO ] [2021-10-24 23:53:11,875] Price Display - Step 03: Click on 'Sony Xperia' detail
+[INFO ] [2021-10-24 23:53:15,328] Price Display - Step 04: Get price of 'Sony Xperia' on Detail page
+[INFO ] [2021-10-24 23:53:15,359] Price Display - Step 05: Verify Price of 'Sony Xperia' in Product page & Detail page are equal
+[INFO ] [2021-10-24 23:53:15,374]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:15,376] OS name = mac os x
+[INFO ] [2021-10-24 23:53:15,529] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-10-24 23:53:18,639] Add To Cart - Step 01: Click on 'Mobile' menu link
+[INFO ] [2021-10-24 23:53:20,043] Add To Cart - Step 02: Add 'Sony Xperia' to cart
+[INFO ] [2021-10-24 23:53:22,266] Add To Cart - Step 03: Verify add to cart success message
+[INFO ] [2021-10-24 23:53:22,323]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:22,323] Add To Cart - Step 04: Verify Sony Xperia details displayed in cart
+[INFO ] [2021-10-24 23:53:22,369]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:22,412]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:22,459]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:22,507]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:22,549]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:22,549] Add To Cart - Step 05: Verify SubTotal and Grand total
+[INFO ] [2021-10-24 23:53:22,590]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:22,631]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:22,631] Add To Cart - Step 06: Click on 'Continue Shopping' link
+[INFO ] [2021-10-24 23:53:23,760] Add To Cart - Step 07: Add 'iPhone' to cart
+[INFO ] [2021-10-24 23:53:25,506] Add To Cart - Step 09: Verify add to cart success message
+[INFO ] [2021-10-24 23:53:25,549]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:25,549] Add To Cart - Step 10: Verify Iphone details in cart
+[INFO ] [2021-10-24 23:53:25,767]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:25,822]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:25,907]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:25,967]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:26,015]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:26,015] Add To Cart - Step 11: Verify Total and Grand total
+[INFO ] [2021-10-24 23:53:26,060]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:26,102]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:26,102] Add To Cart - Step 12: Remove 'iPhone' from cart
+[INFO ] [2021-10-24 23:53:27,622] Add To Cart - Step 13: Verify Subtotal and Grand total
+[INFO ] [2021-10-24 23:53:27,672]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:27,911]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:27,916] Update Cart - Step 01: Update 'Sony Xperia' QTY to 100
+[INFO ] [2021-10-24 23:53:28,169] Update Cart - Step 02: Click 'Update' button on QTY column'
+[INFO ] [2021-10-24 23:53:29,679] Update Cart - Step 03: Verify Subtotal column displays '$10,000.00'
+[INFO ] [2021-10-24 23:53:29,740]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:29,740] Update Cart - Step 04: Verify Cart Subtotal and Grand total
+[INFO ] [2021-10-24 23:53:29,958]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:30,013]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:30,013] Update Cart - Step 05: Update 'Sony Xperia' QTY to 501
+[INFO ] [2021-10-24 23:53:30,164] Update Cart - Step 06: Click 'Update' button on QTY column'
+[INFO ] [2021-10-24 23:53:31,569] Update Cart - Step 07: Verify error message displays '* The maximum quantity allowed for purchase is 500.'
+[INFO ] [2021-10-24 23:53:31,630]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:31,630] Update Cart - Step 08: Verify Cart Subtotal and Grand total didn't change
+[INFO ] [2021-10-24 23:53:31,886]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:31,947]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:31,950] Add Discount Code - Step 01: Update 'Sony Xperia' QTY to 1
+[INFO ] [2021-10-24 23:53:32,111] Add Discount Code - Step 02: Click 'Update' button on QTY column'
+[INFO ] [2021-10-24 23:53:33,654] Add Discount Code - Step 03: Verify Subtotal column displays '$100.00'
+[INFO ] [2021-10-24 23:53:33,700]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:33,700] Add Discount Code - Step 04: Verify Cart Subtotal and Grand total
+[INFO ] [2021-10-24 23:53:33,946]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:34,003]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:34,003] Add Discount Code - Step 05: Add discount code 'GURU50'
+[INFO ] [2021-10-24 23:53:34,132] Add Discount Code - Step 06: Click 'APPLY'
+[INFO ] [2021-10-24 23:53:35,453] Add Discount Code - Step 07: Verify discount added to cart
+[INFO ] [2021-10-24 23:53:35,500]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:35,719]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:35,719] Add Discount Code - Step 08: Verify Cart Subtotal and Grand total
+[INFO ] [2021-10-24 23:53:35,763]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:35,763] Add Discount Code - Step 09: Empty cart
+[INFO ] [2021-10-24 23:53:36,835] Add Discount Code - Step 10: Verify Cart is empty
+[INFO ] [2021-10-24 23:53:36,883]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:37,096]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-24 23:53:37,096] Add Discount Code - Step 11: Click 'here' to continue shopping
+[INFO ] [2021-10-24 23:53:37,833] OS name = mac os x
+[INFO ] [2021-10-24 23:53:37,986] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-10-25 00:17:26,138] Register 1 - Step 01: Open Register Page 
+[INFO ] [2021-10-25 00:17:27,681] Register 1 - Step 02: Click Register button 
+[INFO ] [2021-10-25 00:17:27,985] Register 1 - Step 03: Verify Error Message on required fields 
+[INFO ] [2021-10-25 00:17:28,134]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:17:28,343]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:17:28,418]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:17:28,527]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:17:28,634]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:17:28,908] Register 2 - Step 01: Reload Register Page 
+[INFO ] [2021-10-25 00:17:28,908] Register 2 - Step 02: Input in Firstname field with value Automation
+[INFO ] [2021-10-25 00:17:29,145] Register 2 - Step 03: Input in Lastname field with value FC
+[INFO ] [2021-10-25 00:17:29,263] Register 2 - Step 04: Input in Email Address field with value 'AutomationFC@gmail'
+[INFO ] [2021-10-25 00:17:29,407] Register 2 - Step 05: Input in Password field with value '123'
+[INFO ] [2021-10-25 00:17:29,526] Register 2 - Step 06: Input in Confirm Password field with value '123'
+[INFO ] [2021-10-25 00:17:29,644] Register 2 - Step 07: Click on Register button
+[INFO ] [2021-10-25 00:17:29,723] Register 2 - Step 08: Verify error message displays at Email Address field
+[INFO ] [2021-10-25 00:17:29,804]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:17:29,804] Register 2 - Step 09: Verify error message displays at Password field
+[INFO ] [2021-10-25 00:17:29,882]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:17:29,891] Register 3 - Step 01: Reload Register Page 
+[INFO ] [2021-10-25 00:17:29,891] Register 3 - Step 02: Input in Firstname field with value Automation
+[INFO ] [2021-10-25 00:17:30,050] Register 3 - Step 03: Input in Lastname field with value FC
+[INFO ] [2021-10-25 00:17:30,168] Register 3 - Step 04: Input in Email Address field with value automationFC434573@xyz.com
+[INFO ] [2021-10-25 00:17:30,342] Register 3 - Step 05: Input in Password field with value 123123
+[INFO ] [2021-10-25 00:17:30,489] Register 3 - Step 06: Input in Confirm Password field with value 123123968558
+[INFO ] [2021-10-25 00:17:30,645] Register 3 - Step 07: Click on Register button
+[INFO ] [2021-10-25 00:17:30,760] Register 3 - Step 08: Verify error message displays at Confirm Password field
+[INFO ] [2021-10-25 00:17:30,820]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:17:30,827] Register 4 - Step 01: Reload Register Page 
+[INFO ] [2021-10-25 00:17:30,827] Register 4 - Step 02: Input in Firstname field with value Automation
+[INFO ] [2021-10-25 00:17:30,984] Register 4 - Step 03: Input in Lastname field with value FC
+[INFO ] [2021-10-25 00:17:31,088] Register 4 - Step 04: Input in Email Address field with value automationFC434573@xyz.com
+[INFO ] [2021-10-25 00:17:31,275] Register 4 - Step 05: Input in Password field with value 123123
+[INFO ] [2021-10-25 00:17:31,417] Register 4 - Step 06: Input in Confirm Password field with value 123123
+[INFO ] [2021-10-25 00:17:31,532] Register 4 - Step 06: Select Signup for Newsletter checkbox
+[INFO ] [2021-10-25 00:17:31,658] Register 4 - Step 08: Click on Register button
+[INFO ] [2021-10-25 00:17:33,245] Register 4 - Step 09: Verify Success message displays on My Dashboard page
+[INFO ] [2021-10-25 00:17:33,495]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:17:33,501] OS name = mac os x
+[INFO ] [2021-10-25 00:17:33,727] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-10-25 00:17:36,947] Pre-condition - Step 01: Click on Account menu
+[INFO ] [2021-10-25 00:17:37,046] Pre-condition - Step 02: Open Log In Page from Account menu
+[INFO ] [2021-10-25 00:17:37,994] Login 1 - Step 01: Click on Login button
+[INFO ] [2021-10-25 00:17:38,229] Login 1 - Step 02: Verify required error message displays at Email Address field
+[INFO ] [2021-10-25 00:17:38,300]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:17:38,300] Login 1 - Step 03: Verify required error message displays at Password field
+[INFO ] [2021-10-25 00:17:38,337]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:17:38,342] Login 2 - Step 01: Input Email Address textbox with value gmlogin123@gmail.com
+[INFO ] [2021-10-25 00:17:38,539] Login 2 - Step 02: Input Password textbox with value '123'
+[INFO ] [2021-10-25 00:17:38,669] Login 3 - Step 03: Click on Login button
+[INFO ] [2021-10-25 00:17:38,755] Login 2 - Step 04: Verify validation error message displayes at Password field
+[INFO ] [2021-10-25 00:17:38,787]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:17:38,794] Login 3 - Step 01: Input Email Address Textbox with value 'gmlogin123@gmail'
+[INFO ] [2021-10-25 00:17:38,952] Login 3 - Step 02: Input Password Textbox with value 123123
+[INFO ] [2021-10-25 00:17:39,076] Login 3 - Step 03: Click on Login button
+[INFO ] [2021-10-25 00:17:39,169] Login 3 - Step 04: Verify validation error message displays at Email Adress field
+[INFO ] [2021-10-25 00:17:39,206]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:17:39,210] Login 4 - Step 01: Input Email Address Textbox with value gmlogin123@gmail.com791454
+[INFO ] [2021-10-25 00:17:39,374] Login 4 - Step 02: Input Password Textbox with value 12312324921
+[INFO ] [2021-10-25 00:17:39,501] Login 4 - Step 03: Click on Login button
+[INFO ] [2021-10-25 00:17:40,832] Login 4 - Step 04: Verify error message displays under page title
+[INFO ] [2021-10-25 00:17:40,857]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:17:40,862] Login 5 - Step 01: Input Email Address Textbox with value gmlogin123@gmail.com
+[INFO ] [2021-10-25 00:17:41,255] Login 5 - Step 02: Input Password Textbox with value 123123
+[INFO ] [2021-10-25 00:17:41,405] Login 5 - Step 03: Click on Login button
+[INFO ] [2021-10-25 00:17:43,309] Login 5 - Step 04: Verify My Dashboard page title displays
+[INFO ] [2021-10-25 00:17:43,565]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:17:43,565] Login 5 - Step 05: Verify Welcome Message displays
+[INFO ] [2021-10-25 00:17:43,598]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:17:43,600] OS name = mac os x
+[INFO ] [2021-10-25 00:17:43,772] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-10-25 00:17:56,907] Price Display - Step 01: Click on 'Mobile' menu
+[INFO ] [2021-10-25 00:17:58,046] Price Display - Step 02: Get price of 'Sony Xperia' mobile
+[INFO ] [2021-10-25 00:17:58,075] Price Display - Step 03: Click on 'Sony Xperia' detail
+[INFO ] [2021-10-25 00:18:00,319] Price Display - Step 04: Get price of 'Sony Xperia' on Detail page
+[INFO ] [2021-10-25 00:18:00,347] Price Display - Step 05: Verify Price of 'Sony Xperia' in Product page & Detail page are equal
+[INFO ] [2021-10-25 00:18:00,362]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:00,364] OS name = mac os x
+[INFO ] [2021-10-25 00:18:00,538] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-10-25 00:18:03,400] Add To Cart - Step 01: Click on 'Mobile' menu link
+[INFO ] [2021-10-25 00:18:04,784] Add To Cart - Step 02: Add 'Sony Xperia' to cart
+[INFO ] [2021-10-25 00:18:06,775] Add To Cart - Step 03: Verify add to cart success message
+[INFO ] [2021-10-25 00:18:06,822]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:06,823] Add To Cart - Step 04: Verify Sony Xperia details displayed in cart
+[INFO ] [2021-10-25 00:18:07,020]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:07,076]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:07,133]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:07,176]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:07,217]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:07,217] Add To Cart - Step 05: Verify SubTotal and Grand total
+[INFO ] [2021-10-25 00:18:07,258]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:07,300]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:07,300] Add To Cart - Step 06: Click on 'Continue Shopping' link
+[INFO ] [2021-10-25 00:18:08,149] Add To Cart - Step 07: Add 'iPhone' to cart
+[INFO ] [2021-10-25 00:18:09,974] Add To Cart - Step 09: Verify add to cart success message
+[INFO ] [2021-10-25 00:18:10,022]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:10,022] Add To Cart - Step 10: Verify Iphone details in cart
+[INFO ] [2021-10-25 00:18:10,254]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:10,329]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:10,385]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:10,435]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:10,481]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:10,481] Add To Cart - Step 11: Verify Total and Grand total
+[INFO ] [2021-10-25 00:18:10,539]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:10,578]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:10,578] Add To Cart - Step 12: Remove 'iPhone' from cart
+[INFO ] [2021-10-25 00:18:12,454] Add To Cart - Step 13: Verify Subtotal and Grand total
+[INFO ] [2021-10-25 00:18:12,501]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:12,708]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:12,713] Update Cart - Step 01: Update 'Sony Xperia' QTY to 100
+[INFO ] [2021-10-25 00:18:12,958] Update Cart - Step 02: Click 'Update' button on QTY column'
+[INFO ] [2021-10-25 00:18:14,280] Update Cart - Step 03: Verify Subtotal column displays '$10,000.00'
+[INFO ] [2021-10-25 00:18:14,326]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:14,326] Update Cart - Step 04: Verify Cart Subtotal and Grand total
+[INFO ] [2021-10-25 00:18:14,534]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:14,588]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:14,588] Update Cart - Step 05: Update 'Sony Xperia' QTY to 501
+[INFO ] [2021-10-25 00:18:14,720] Update Cart - Step 06: Click 'Update' button on QTY column'
+[INFO ] [2021-10-25 00:18:16,145] Update Cart - Step 07: Verify error message displays '* The maximum quantity allowed for purchase is 500.'
+[INFO ] [2021-10-25 00:18:16,392]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:16,392] Update Cart - Step 08: Verify Cart Subtotal and Grand total didn't change
+[INFO ] [2021-10-25 00:18:16,443]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:16,495]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:16,499] Add Discount Code - Step 01: Update 'Sony Xperia' QTY to 1
+[INFO ] [2021-10-25 00:18:16,626] Add Discount Code - Step 02: Click 'Update' button on QTY column'
+[INFO ] [2021-10-25 00:18:17,960] Add Discount Code - Step 03: Verify Subtotal column displays '$100.00'
+[INFO ] [2021-10-25 00:18:18,004]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:18,004] Add Discount Code - Step 04: Verify Cart Subtotal and Grand total
+[INFO ] [2021-10-25 00:18:18,218]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:18,269]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:18,270] Add Discount Code - Step 05: Add discount code 'GURU50'
+[INFO ] [2021-10-25 00:18:18,419] Add Discount Code - Step 06: Click 'APPLY'
+[INFO ] [2021-10-25 00:18:19,663] Add Discount Code - Step 07: Verify discount added to cart
+[INFO ] [2021-10-25 00:18:19,710]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:19,914]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:19,914] Add Discount Code - Step 08: Verify Cart Subtotal and Grand total
+[INFO ] [2021-10-25 00:18:19,961]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:19,961] Add Discount Code - Step 09: Empty cart
+[INFO ] [2021-10-25 00:18:21,202] Add Discount Code - Step 10: Verify Cart is empty
+[INFO ] [2021-10-25 00:18:21,245]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:21,449]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:21,449] Add Discount Code - Step 11: Click 'here' to continue shopping
+[INFO ] [2021-10-25 00:18:22,179] OS name = mac os x
+[INFO ] [2021-10-25 00:18:22,368] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-10-25 00:18:26,650] Register 1 - Step 01: Open Register Page 
+[INFO ] [2021-10-25 00:18:27,713] Register 1 - Step 02: Click Register button 
+[INFO ] [2021-10-25 00:18:27,997] Register 1 - Step 03: Verify Error Message on required fields 
+[INFO ] [2021-10-25 00:18:28,077]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:28,294]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:28,365]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:28,429]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:28,493]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:28,496] Register 2 - Step 01: Reload Register Page 
+[INFO ] [2021-10-25 00:18:28,497] Register 2 - Step 02: Input in Firstname field with value Automation
+[INFO ] [2021-10-25 00:18:28,699] Register 2 - Step 03: Input in Lastname field with value FC
+[INFO ] [2021-10-25 00:18:28,829] Register 2 - Step 04: Input in Email Address field with value 'AutomationFC@gmail'
+[INFO ] [2021-10-25 00:18:29,002] Register 2 - Step 05: Input in Password field with value '123'
+[INFO ] [2021-10-25 00:18:29,142] Register 2 - Step 06: Input in Confirm Password field with value '123'
+[INFO ] [2021-10-25 00:18:29,246] Register 2 - Step 07: Click on Register button
+[INFO ] [2021-10-25 00:18:29,332] Register 2 - Step 08: Verify error message displays at Email Address field
+[INFO ] [2021-10-25 00:18:29,421]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:29,421] Register 2 - Step 09: Verify error message displays at Password field
+[INFO ] [2021-10-25 00:18:29,475]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:29,480] Register 3 - Step 01: Reload Register Page 
+[INFO ] [2021-10-25 00:18:29,480] Register 3 - Step 02: Input in Firstname field with value Automation
+[INFO ] [2021-10-25 00:18:29,619] Register 3 - Step 03: Input in Lastname field with value FC
+[INFO ] [2021-10-25 00:18:29,734] Register 3 - Step 04: Input in Email Address field with value automationFC106392@xyz.com
+[INFO ] [2021-10-25 00:18:29,889] Register 3 - Step 05: Input in Password field with value 123123
+[INFO ] [2021-10-25 00:18:30,003] Register 3 - Step 06: Input in Confirm Password field with value 123123201062
+[INFO ] [2021-10-25 00:18:30,125] Register 3 - Step 07: Click on Register button
+[INFO ] [2021-10-25 00:18:30,201] Register 3 - Step 08: Verify error message displays at Confirm Password field
+[INFO ] [2021-10-25 00:18:30,273]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:30,284] Register 4 - Step 01: Reload Register Page 
+[INFO ] [2021-10-25 00:18:30,284] Register 4 - Step 02: Input in Firstname field with value Automation
+[INFO ] [2021-10-25 00:18:30,445] Register 4 - Step 03: Input in Lastname field with value FC
+[INFO ] [2021-10-25 00:18:30,546] Register 4 - Step 04: Input in Email Address field with value automationFC106392@xyz.com
+[INFO ] [2021-10-25 00:18:30,688] Register 4 - Step 05: Input in Password field with value 123123
+[INFO ] [2021-10-25 00:18:30,792] Register 4 - Step 06: Input in Confirm Password field with value 123123
+[INFO ] [2021-10-25 00:18:30,892] Register 4 - Step 06: Select Signup for Newsletter checkbox
+[INFO ] [2021-10-25 00:18:30,995] Register 4 - Step 08: Click on Register button
+[INFO ] [2021-10-25 00:18:32,574] Register 4 - Step 09: Verify Success message displays on My Dashboard page
+[INFO ] [2021-10-25 00:18:32,629]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:32,631] OS name = mac os x
+[INFO ] [2021-10-25 00:18:32,858] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-10-25 00:18:36,021] Pre-condition - Step 01: Click on Account menu
+[INFO ] [2021-10-25 00:18:36,113] Pre-condition - Step 02: Open Log In Page from Account menu
+[INFO ] [2021-10-25 00:18:37,234] Login 1 - Step 01: Click on Login button
+[INFO ] [2021-10-25 00:18:37,503] Login 1 - Step 02: Verify required error message displays at Email Address field
+[INFO ] [2021-10-25 00:18:37,549]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:37,549] Login 1 - Step 03: Verify required error message displays at Password field
+[INFO ] [2021-10-25 00:18:37,585]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:37,589] Login 2 - Step 01: Input Email Address textbox with value gmlogin123@gmail.com
+[INFO ] [2021-10-25 00:18:37,843] Login 2 - Step 02: Input Password textbox with value '123'
+[INFO ] [2021-10-25 00:18:37,972] Login 3 - Step 03: Click on Login button
+[INFO ] [2021-10-25 00:18:38,053] Login 2 - Step 04: Verify validation error message displayes at Password field
+[INFO ] [2021-10-25 00:18:38,086]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:38,091] Login 3 - Step 01: Input Email Address Textbox with value 'gmlogin123@gmail'
+[INFO ] [2021-10-25 00:18:38,242] Login 3 - Step 02: Input Password Textbox with value 123123
+[INFO ] [2021-10-25 00:18:38,355] Login 3 - Step 03: Click on Login button
+[INFO ] [2021-10-25 00:18:38,450] Login 3 - Step 04: Verify validation error message displays at Email Adress field
+[INFO ] [2021-10-25 00:18:38,498]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:38,502] Login 4 - Step 01: Input Email Address Textbox with value gmlogin123@gmail.com927040
+[INFO ] [2021-10-25 00:18:38,648] Login 4 - Step 02: Input Password Textbox with value 123123656242
+[INFO ] [2021-10-25 00:18:38,766] Login 4 - Step 03: Click on Login button
+[INFO ] [2021-10-25 00:18:40,631] Login 4 - Step 04: Verify error message displays under page title
+[INFO ] [2021-10-25 00:18:40,663]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:40,667] Login 5 - Step 01: Input Email Address Textbox with value gmlogin123@gmail.com
+[INFO ] [2021-10-25 00:18:41,065] Login 5 - Step 02: Input Password Textbox with value 123123
+[INFO ] [2021-10-25 00:18:41,213] Login 5 - Step 03: Click on Login button
+[INFO ] [2021-10-25 00:18:42,622] Login 5 - Step 04: Verify My Dashboard page title displays
+[INFO ] [2021-10-25 00:18:42,676]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:42,676] Login 5 - Step 05: Verify Welcome Message displays
+[INFO ] [2021-10-25 00:18:42,857]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:42,859] OS name = mac os x
+[INFO ] [2021-10-25 00:18:43,091] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-10-25 00:18:46,115] Price Display - Step 01: Click on 'Mobile' menu
+[INFO ] [2021-10-25 00:18:47,425] Price Display - Step 02: Get price of 'Sony Xperia' mobile
+[INFO ] [2021-10-25 00:18:47,452] Price Display - Step 03: Click on 'Sony Xperia' detail
+[INFO ] [2021-10-25 00:18:49,317] Price Display - Step 04: Get price of 'Sony Xperia' on Detail page
+[INFO ] [2021-10-25 00:18:49,375] Price Display - Step 05: Verify Price of 'Sony Xperia' in Product page & Detail page are equal
+[INFO ] [2021-10-25 00:18:49,570]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:49,573] OS name = mac os x
+[INFO ] [2021-10-25 00:18:49,800] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-10-25 00:18:53,130] Add To Cart - Step 01: Click on 'Mobile' menu link
+[INFO ] [2021-10-25 00:18:54,405] Add To Cart - Step 02: Add 'Sony Xperia' to cart
+[INFO ] [2021-10-25 00:18:56,043] Add To Cart - Step 03: Verify add to cart success message
+[INFO ] [2021-10-25 00:18:56,090]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:56,090] Add To Cart - Step 04: Verify Sony Xperia details displayed in cart
+[INFO ] [2021-10-25 00:18:56,294]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:56,344]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:56,399]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:56,451]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:56,495]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:56,495] Add To Cart - Step 05: Verify SubTotal and Grand total
+[INFO ] [2021-10-25 00:18:56,537]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:56,579]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:18:56,579] Add To Cart - Step 06: Click on 'Continue Shopping' link
+[INFO ] [2021-10-25 00:18:57,841] Add To Cart - Step 07: Add 'iPhone' to cart
+[INFO ] [2021-10-25 00:19:42,643] Add To Cart - Step 09: Verify add to cart success message
+[INFO ] [2021-10-25 00:19:42,694]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:19:42,694] Add To Cart - Step 10: Verify Iphone details in cart
+[INFO ] [2021-10-25 00:19:42,742]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:19:42,789]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:19:42,833]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:19:42,878]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:19:42,928]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:19:42,928] Add To Cart - Step 11: Verify Total and Grand total
+[INFO ] [2021-10-25 00:19:42,970]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:19:43,014]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:19:43,014] Add To Cart - Step 12: Remove 'iPhone' from cart
+[INFO ] [2021-10-25 00:19:44,758] Add To Cart - Step 13: Verify Subtotal and Grand total
+[INFO ] [2021-10-25 00:19:44,813]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:19:44,863]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:19:44,869] Update Cart - Step 01: Update 'Sony Xperia' QTY to 100
+[INFO ] [2021-10-25 00:19:45,081] Update Cart - Step 02: Click 'Update' button on QTY column'
+[INFO ] [2021-10-25 00:19:46,485] Update Cart - Step 03: Verify Subtotal column displays '$10,000.00'
+[INFO ] [2021-10-25 00:19:46,536]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:19:46,536] Update Cart - Step 04: Verify Cart Subtotal and Grand total
+[INFO ] [2021-10-25 00:19:46,579]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:19:46,620]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:19:46,620] Update Cart - Step 05: Update 'Sony Xperia' QTY to 501
+[INFO ] [2021-10-25 00:19:46,963] Update Cart - Step 06: Click 'Update' button on QTY column'
+[INFO ] [2021-10-25 00:19:48,539] Update Cart - Step 07: Verify error message displays '* The maximum quantity allowed for purchase is 500.'
+[INFO ] [2021-10-25 00:19:48,595]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:19:48,595] Update Cart - Step 08: Verify Cart Subtotal and Grand total didn't change
+[INFO ] [2021-10-25 00:19:48,833]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:19:48,881]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:19:48,884] Add Discount Code - Step 01: Update 'Sony Xperia' QTY to 1
+[INFO ] [2021-10-25 00:19:49,067] Add Discount Code - Step 02: Click 'Update' button on QTY column'
+[INFO ] [2021-10-25 00:19:50,520] Add Discount Code - Step 03: Verify Subtotal column displays '$100.00'
+[INFO ] [2021-10-25 00:19:50,569]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:19:50,569] Add Discount Code - Step 04: Verify Cart Subtotal and Grand total
+[INFO ] [2021-10-25 00:19:50,816]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:19:50,885]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:19:50,886] Add Discount Code - Step 05: Add discount code 'GURU50'
+[INFO ] [2021-10-25 00:19:51,117] Add Discount Code - Step 06: Click 'APPLY'
+[INFO ] [2021-10-25 00:19:52,479] Add Discount Code - Step 07: Verify discount added to cart
+[INFO ] [2021-10-25 00:19:52,559]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:19:52,808]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:19:52,809] Add Discount Code - Step 08: Verify Cart Subtotal and Grand total
+[INFO ] [2021-10-25 00:19:52,866]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:19:52,866] Add Discount Code - Step 09: Empty cart
+[INFO ] [2021-10-25 00:19:54,097] Add Discount Code - Step 10: Verify Cart is empty
+[INFO ] [2021-10-25 00:19:54,153]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:19:54,435]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 00:19:54,435] Add Discount Code - Step 11: Click 'here' to continue shopping
+[INFO ] [2021-10-25 00:19:55,253] OS name = mac os x
+[INFO ] [2021-10-25 00:19:55,528] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-10-25 09:06:44,624] Register 1 - Step 01: Open Register Page 
+[INFO ] [2021-10-25 09:06:46,644] Register 1 - Step 02: Click Register button 
+[INFO ] [2021-10-25 09:06:47,139] Register 1 - Step 03: Verify Error Message on required fields 
+[INFO ] [2021-10-25 09:06:47,273]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:06:47,500]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:06:47,703]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:06:47,823]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:06:47,919]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:06:48,160] Register 2 - Step 01: Reload Register Page 
+[INFO ] [2021-10-25 09:06:48,161] Register 2 - Step 02: Input in Firstname field with value Automation
+[INFO ] [2021-10-25 09:06:48,435] Register 2 - Step 03: Input in Lastname field with value FC
+[INFO ] [2021-10-25 09:06:48,609] Register 2 - Step 04: Input in Email Address field with value 'AutomationFC@gmail'
+[INFO ] [2021-10-25 09:06:48,825] Register 2 - Step 05: Input in Password field with value '123'
+[INFO ] [2021-10-25 09:06:49,003] Register 2 - Step 06: Input in Confirm Password field with value '123'
+[INFO ] [2021-10-25 09:06:49,148] Register 2 - Step 07: Click on Register button
+[INFO ] [2021-10-25 09:06:49,309] Register 2 - Step 08: Verify error message displays at Email Address field
+[INFO ] [2021-10-25 09:06:49,424]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:06:49,424] Register 2 - Step 09: Verify error message displays at Password field
+[INFO ] [2021-10-25 09:06:49,512]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:06:49,521] Register 3 - Step 01: Reload Register Page 
+[INFO ] [2021-10-25 09:06:49,522] Register 3 - Step 02: Input in Firstname field with value Automation
+[INFO ] [2021-10-25 09:06:49,806] Register 3 - Step 03: Input in Lastname field with value FC
+[INFO ] [2021-10-25 09:06:50,088] Register 3 - Step 04: Input in Email Address field with value automationFC299066@xyz.com
+[INFO ] [2021-10-25 09:06:50,423] Register 3 - Step 05: Input in Password field with value 123123
+[INFO ] [2021-10-25 09:06:50,534] Register 3 - Step 06: Input in Confirm Password field with value 123123253458
+[INFO ] [2021-10-25 09:06:50,669] Register 3 - Step 07: Click on Register button
+[INFO ] [2021-10-25 09:06:50,768] Register 3 - Step 08: Verify error message displays at Confirm Password field
+[INFO ] [2021-10-25 09:06:50,849]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:06:50,856] Register 4 - Step 01: Reload Register Page 
+[INFO ] [2021-10-25 09:06:50,856] Register 4 - Step 02: Input in Firstname field with value Automation
+[INFO ] [2021-10-25 09:06:51,112] Register 4 - Step 03: Input in Lastname field with value FC
+[INFO ] [2021-10-25 09:06:51,261] Register 4 - Step 04: Input in Email Address field with value automationFC299066@xyz.com
+[INFO ] [2021-10-25 09:06:51,472] Register 4 - Step 05: Input in Password field with value 123123
+[INFO ] [2021-10-25 09:06:51,625] Register 4 - Step 06: Input in Confirm Password field with value 123123
+[INFO ] [2021-10-25 09:06:51,785] Register 4 - Step 06: Select Signup for Newsletter checkbox
+[INFO ] [2021-10-25 09:06:52,004] Register 4 - Step 08: Click on Register button
+[INFO ] [2021-10-25 09:06:54,528] Register 4 - Step 09: Verify Success message displays on My Dashboard page
+[INFO ] [2021-10-25 09:06:54,909]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:06:54,914] OS name = mac os x
+[INFO ] [2021-10-25 09:06:55,242] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-10-25 09:06:59,176] Pre-condition - Step 01: Click on Account menu
+[INFO ] [2021-10-25 09:06:59,332] Pre-condition - Step 02: Open Log In Page from Account menu
+[INFO ] [2021-10-25 09:07:00,735] Login 1 - Step 01: Click on Login button
+[INFO ] [2021-10-25 09:07:01,186] Login 1 - Step 02: Verify required error message displays at Email Address field
+[INFO ] [2021-10-25 09:07:01,279]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:01,285] Login 1 - Step 03: Verify required error message displays at Password field
+[INFO ] [2021-10-25 09:07:01,330]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:01,335] Login 2 - Step 01: Input Email Address textbox with value gmlogin123@gmail.com
+[INFO ] [2021-10-25 09:07:01,684] Login 2 - Step 02: Input Password textbox with value '123'
+[INFO ] [2021-10-25 09:07:01,933] Login 3 - Step 03: Click on Login button
+[INFO ] [2021-10-25 09:07:02,079] Login 2 - Step 04: Verify validation error message displayes at Password field
+[INFO ] [2021-10-25 09:07:02,132]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:02,137] Login 3 - Step 01: Input Email Address Textbox with value 'gmlogin123@gmail'
+[INFO ] [2021-10-25 09:07:02,529] Login 3 - Step 02: Input Password Textbox with value 123123
+[INFO ] [2021-10-25 09:07:02,709] Login 3 - Step 03: Click on Login button
+[INFO ] [2021-10-25 09:07:02,905] Login 3 - Step 04: Verify validation error message displays at Email Adress field
+[INFO ] [2021-10-25 09:07:03,005]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:03,009] Login 4 - Step 01: Input Email Address Textbox with value gmlogin123@gmail.com757840
+[INFO ] [2021-10-25 09:07:03,332] Login 4 - Step 02: Input Password Textbox with value 123123938651
+[INFO ] [2021-10-25 09:07:03,647] Login 4 - Step 03: Click on Login button
+[INFO ] [2021-10-25 09:07:05,311] Login 4 - Step 04: Verify error message displays under page title
+[INFO ] [2021-10-25 09:07:05,356]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:05,360] Login 5 - Step 01: Input Email Address Textbox with value gmlogin123@gmail.com
+[INFO ] [2021-10-25 09:07:05,915] Login 5 - Step 02: Input Password Textbox with value 123123
+[INFO ] [2021-10-25 09:07:06,100] Login 5 - Step 03: Click on Login button
+[INFO ] [2021-10-25 09:07:07,871] Login 5 - Step 04: Verify My Dashboard page title displays
+[INFO ] [2021-10-25 09:07:08,186]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:08,187] Login 5 - Step 05: Verify Welcome Message displays
+[INFO ] [2021-10-25 09:07:08,219]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:08,221] OS name = mac os x
+[INFO ] [2021-10-25 09:07:08,429] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-10-25 09:07:11,931] Price Display - Step 01: Click on 'Mobile' menu
+[INFO ] [2021-10-25 09:07:13,307] Price Display - Step 02: Get price of 'Sony Xperia' mobile
+[INFO ] [2021-10-25 09:07:13,349] Price Display - Step 03: Click on 'Sony Xperia' detail
+[INFO ] [2021-10-25 09:07:15,662] Price Display - Step 04: Get price of 'Sony Xperia' on Detail page
+[INFO ] [2021-10-25 09:07:15,698] Price Display - Step 05: Verify Price of 'Sony Xperia' in Product page & Detail page are equal
+[INFO ] [2021-10-25 09:07:15,879]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:15,882] OS name = mac os x
+[INFO ] [2021-10-25 09:07:16,116] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-10-25 09:07:19,981] Add To Cart - Step 01: Click on 'Mobile' menu link
+[INFO ] [2021-10-25 09:07:21,191] Add To Cart - Step 02: Add 'Sony Xperia' to cart
+[INFO ] [2021-10-25 09:07:26,939] Add To Cart - Step 03: Verify add to cart success message
+[INFO ] [2021-10-25 09:07:26,994]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:26,995] Add To Cart - Step 04: Verify Sony Xperia details displayed in cart
+[INFO ] [2021-10-25 09:07:27,209]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:27,265]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:27,328]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:27,382]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:27,438]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:27,438] Add To Cart - Step 05: Verify SubTotal and Grand total
+[INFO ] [2021-10-25 09:07:27,485]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:27,531]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:27,531] Add To Cart - Step 06: Click on 'Continue Shopping' link
+[INFO ] [2021-10-25 09:07:28,406] Add To Cart - Step 07: Add 'iPhone' to cart
+[INFO ] [2021-10-25 09:07:30,248] Add To Cart - Step 09: Verify add to cart success message
+[INFO ] [2021-10-25 09:07:30,309]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:30,309] Add To Cart - Step 10: Verify Iphone details in cart
+[INFO ] [2021-10-25 09:07:30,549]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:30,619]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:30,682]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:30,743]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:30,798]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:30,798] Add To Cart - Step 11: Verify Total and Grand total
+[INFO ] [2021-10-25 09:07:30,837]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:30,877]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:30,877] Add To Cart - Step 12: Remove 'iPhone' from cart
+[INFO ] [2021-10-25 09:07:32,251] Add To Cart - Step 13: Verify Subtotal and Grand total
+[INFO ] [2021-10-25 09:07:32,305]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:32,356]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:32,362] Update Cart - Step 01: Update 'Sony Xperia' QTY to 100
+[INFO ] [2021-10-25 09:07:32,817] Update Cart - Step 02: Click 'Update' button on QTY column'
+[INFO ] [2021-10-25 09:07:34,567] Update Cart - Step 03: Verify Subtotal column displays '$10,000.00'
+[INFO ] [2021-10-25 09:07:34,623]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:34,623] Update Cart - Step 04: Verify Cart Subtotal and Grand total
+[INFO ] [2021-10-25 09:07:34,880]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:34,932]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:34,932] Update Cart - Step 05: Update 'Sony Xperia' QTY to 501
+[INFO ] [2021-10-25 09:07:35,133] Update Cart - Step 06: Click 'Update' button on QTY column'
+[INFO ] [2021-10-25 09:07:36,518] Update Cart - Step 07: Verify error message displays '* The maximum quantity allowed for purchase is 500.'
+[INFO ] [2021-10-25 09:07:36,811]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:36,812] Update Cart - Step 08: Verify Cart Subtotal and Grand total didn't change
+[INFO ] [2021-10-25 09:07:36,857]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:36,905]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:36,909] Add Discount Code - Step 01: Update 'Sony Xperia' QTY to 1
+[INFO ] [2021-10-25 09:07:37,104] Add Discount Code - Step 02: Click 'Update' button on QTY column'
+[INFO ] [2021-10-25 09:07:38,551] Add Discount Code - Step 03: Verify Subtotal column displays '$100.00'
+[INFO ] [2021-10-25 09:07:38,603]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:38,603] Add Discount Code - Step 04: Verify Cart Subtotal and Grand total
+[INFO ] [2021-10-25 09:07:38,819]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:38,886]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:38,887] Add Discount Code - Step 05: Add discount code 'GURU50'
+[INFO ] [2021-10-25 09:07:39,079] Add Discount Code - Step 06: Click 'APPLY'
+[INFO ] [2021-10-25 09:07:40,452] Add Discount Code - Step 07: Verify discount added to cart
+[INFO ] [2021-10-25 09:07:40,504]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:40,730]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:40,730] Add Discount Code - Step 08: Verify Cart Subtotal and Grand total
+[INFO ] [2021-10-25 09:07:40,773]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:40,773] Add Discount Code - Step 09: Empty cart
+[INFO ] [2021-10-25 09:07:42,041] Add Discount Code - Step 10: Verify Cart is empty
+[INFO ] [2021-10-25 09:07:42,095]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:42,314]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:42,314] Add Discount Code - Step 11: Click 'here' to continue shopping
+[INFO ] [2021-10-25 09:07:43,118] OS name = mac os x
+[INFO ] [2021-10-25 09:07:43,303] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-10-25 09:07:48,721] Register 1 - Step 01: Open Register Page 
+[INFO ] [2021-10-25 09:07:49,968] Register 1 - Step 02: Click Register button 
+[INFO ] [2021-10-25 09:07:50,313] Register 1 - Step 03: Verify Error Message on required fields 
+[INFO ] [2021-10-25 09:07:50,607]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:50,725]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:50,795]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:50,862]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:50,925]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:50,930] Register 2 - Step 01: Reload Register Page 
+[INFO ] [2021-10-25 09:07:50,930] Register 2 - Step 02: Input in Firstname field with value Automation
+[INFO ] [2021-10-25 09:07:51,149] Register 2 - Step 03: Input in Lastname field with value FC
+[INFO ] [2021-10-25 09:07:51,301] Register 2 - Step 04: Input in Email Address field with value 'AutomationFC@gmail'
+[INFO ] [2021-10-25 09:07:51,479] Register 2 - Step 05: Input in Password field with value '123'
+[INFO ] [2021-10-25 09:07:51,619] Register 2 - Step 06: Input in Confirm Password field with value '123'
+[INFO ] [2021-10-25 09:07:51,776] Register 2 - Step 07: Click on Register button
+[INFO ] [2021-10-25 09:07:51,937] Register 2 - Step 08: Verify error message displays at Email Address field
+[INFO ] [2021-10-25 09:07:52,020]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:52,020] Register 2 - Step 09: Verify error message displays at Password field
+[INFO ] [2021-10-25 09:07:52,104]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:52,108] Register 3 - Step 01: Reload Register Page 
+[INFO ] [2021-10-25 09:07:52,109] Register 3 - Step 02: Input in Firstname field with value Automation
+[INFO ] [2021-10-25 09:07:52,374] Register 3 - Step 03: Input in Lastname field with value FC
+[INFO ] [2021-10-25 09:07:52,575] Register 3 - Step 04: Input in Email Address field with value automationFC523890@xyz.com
+[INFO ] [2021-10-25 09:07:52,831] Register 3 - Step 05: Input in Password field with value 123123
+[INFO ] [2021-10-25 09:07:52,978] Register 3 - Step 06: Input in Confirm Password field with value 12312364940
+[INFO ] [2021-10-25 09:07:53,088] Register 3 - Step 07: Click on Register button
+[INFO ] [2021-10-25 09:07:53,191] Register 3 - Step 08: Verify error message displays at Confirm Password field
+[INFO ] [2021-10-25 09:07:53,258]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:53,272] Register 4 - Step 01: Reload Register Page 
+[INFO ] [2021-10-25 09:07:53,272] Register 4 - Step 02: Input in Firstname field with value Automation
+[INFO ] [2021-10-25 09:07:53,529] Register 4 - Step 03: Input in Lastname field with value FC
+[INFO ] [2021-10-25 09:07:53,712] Register 4 - Step 04: Input in Email Address field with value automationFC523890@xyz.com
+[INFO ] [2021-10-25 09:07:53,958] Register 4 - Step 05: Input in Password field with value 123123
+[INFO ] [2021-10-25 09:07:54,095] Register 4 - Step 06: Input in Confirm Password field with value 123123
+[INFO ] [2021-10-25 09:07:54,222] Register 4 - Step 06: Select Signup for Newsletter checkbox
+[INFO ] [2021-10-25 09:07:54,347] Register 4 - Step 08: Click on Register button
+[INFO ] [2021-10-25 09:07:55,945] Register 4 - Step 09: Verify Success message displays on My Dashboard page
+[INFO ] [2021-10-25 09:07:56,012]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:07:56,015] OS name = mac os x
+[INFO ] [2021-10-25 09:07:56,266] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-10-25 09:07:59,794] Pre-condition - Step 01: Click on Account menu
+[INFO ] [2021-10-25 09:07:59,908] Pre-condition - Step 02: Open Log In Page from Account menu
+[INFO ] [2021-10-25 09:08:01,076] Login 1 - Step 01: Click on Login button
+[INFO ] [2021-10-25 09:08:01,412] Login 1 - Step 02: Verify required error message displays at Email Address field
+[INFO ] [2021-10-25 09:08:01,495]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:01,495] Login 1 - Step 03: Verify required error message displays at Password field
+[INFO ] [2021-10-25 09:08:01,562]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:01,565] Login 2 - Step 01: Input Email Address textbox with value gmlogin123@gmail.com
+[INFO ] [2021-10-25 09:08:01,914] Login 2 - Step 02: Input Password textbox with value '123'
+[INFO ] [2021-10-25 09:08:02,075] Login 3 - Step 03: Click on Login button
+[INFO ] [2021-10-25 09:08:02,181] Login 2 - Step 04: Verify validation error message displayes at Password field
+[INFO ] [2021-10-25 09:08:02,226]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:02,230] Login 3 - Step 01: Input Email Address Textbox with value 'gmlogin123@gmail'
+[INFO ] [2021-10-25 09:08:02,471] Login 3 - Step 02: Input Password Textbox with value 123123
+[INFO ] [2021-10-25 09:08:02,634] Login 3 - Step 03: Click on Login button
+[INFO ] [2021-10-25 09:08:02,800] Login 3 - Step 04: Verify validation error message displays at Email Adress field
+[INFO ] [2021-10-25 09:08:02,846]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:02,851] Login 4 - Step 01: Input Email Address Textbox with value gmlogin123@gmail.com860942
+[INFO ] [2021-10-25 09:08:03,201] Login 4 - Step 02: Input Password Textbox with value 123123983386
+[INFO ] [2021-10-25 09:08:03,365] Login 4 - Step 03: Click on Login button
+[INFO ] [2021-10-25 09:08:05,075] Login 4 - Step 04: Verify error message displays under page title
+[INFO ] [2021-10-25 09:08:05,126]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:05,129] Login 5 - Step 01: Input Email Address Textbox with value gmlogin123@gmail.com
+[INFO ] [2021-10-25 09:08:05,646] Login 5 - Step 02: Input Password Textbox with value 123123
+[INFO ] [2021-10-25 09:08:05,853] Login 5 - Step 03: Click on Login button
+[INFO ] [2021-10-25 09:08:07,395] Login 5 - Step 04: Verify My Dashboard page title displays
+[INFO ] [2021-10-25 09:08:07,457]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:07,457] Login 5 - Step 05: Verify Welcome Message displays
+[INFO ] [2021-10-25 09:08:07,685]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:07,687] OS name = mac os x
+[INFO ] [2021-10-25 09:08:07,941] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-10-25 09:08:11,812] Price Display - Step 01: Click on 'Mobile' menu
+[INFO ] [2021-10-25 09:08:13,558] Price Display - Step 02: Get price of 'Sony Xperia' mobile
+[INFO ] [2021-10-25 09:08:13,592] Price Display - Step 03: Click on 'Sony Xperia' detail
+[INFO ] [2021-10-25 09:08:15,914] Price Display - Step 04: Get price of 'Sony Xperia' on Detail page
+[INFO ] [2021-10-25 09:08:15,955] Price Display - Step 05: Verify Price of 'Sony Xperia' in Product page & Detail page are equal
+[INFO ] [2021-10-25 09:08:16,183]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:16,185] OS name = mac os x
+[INFO ] [2021-10-25 09:08:16,439] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-10-25 09:08:20,170] Add To Cart - Step 01: Click on 'Mobile' menu link
+[INFO ] [2021-10-25 09:08:21,641] Add To Cart - Step 02: Add 'Sony Xperia' to cart
+[INFO ] [2021-10-25 09:08:23,631] Add To Cart - Step 03: Verify add to cart success message
+[INFO ] [2021-10-25 09:08:23,911]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:23,911] Add To Cart - Step 04: Verify Sony Xperia details displayed in cart
+[INFO ] [2021-10-25 09:08:23,971]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:24,033]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:24,104]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:24,158]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:24,232]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:24,232] Add To Cart - Step 05: Verify SubTotal and Grand total
+[INFO ] [2021-10-25 09:08:24,289]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:24,340]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:24,340] Add To Cart - Step 06: Click on 'Continue Shopping' link
+[INFO ] [2021-10-25 09:08:25,390] Add To Cart - Step 07: Add 'iPhone' to cart
+[INFO ] [2021-10-25 09:08:27,320] Add To Cart - Step 09: Verify add to cart success message
+[INFO ] [2021-10-25 09:08:27,383]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:27,383] Add To Cart - Step 10: Verify Iphone details in cart
+[INFO ] [2021-10-25 09:08:27,654]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:27,703]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:27,770]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:27,839]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:27,907]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:27,907] Add To Cart - Step 11: Verify Total and Grand total
+[INFO ] [2021-10-25 09:08:27,957]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:28,004]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:28,004] Add To Cart - Step 12: Remove 'iPhone' from cart
+[INFO ] [2021-10-25 09:08:29,474] Add To Cart - Step 13: Verify Subtotal and Grand total
+[INFO ] [2021-10-25 09:08:29,538]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:29,820]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:29,827] Update Cart - Step 01: Update 'Sony Xperia' QTY to 100
+[INFO ] [2021-10-25 09:08:30,132] Update Cart - Step 02: Click 'Update' button on QTY column'
+[INFO ] [2021-10-25 09:08:31,653] Update Cart - Step 03: Verify Subtotal column displays '$10,000.00'
+[INFO ] [2021-10-25 09:08:32,017]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:32,017] Update Cart - Step 04: Verify Cart Subtotal and Grand total
+[INFO ] [2021-10-25 09:08:32,066]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:32,136]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:32,136] Update Cart - Step 05: Update 'Sony Xperia' QTY to 501
+[INFO ] [2021-10-25 09:08:32,372] Update Cart - Step 06: Click 'Update' button on QTY column'
+[INFO ] [2021-10-25 09:08:34,012] Update Cart - Step 07: Verify error message displays '* The maximum quantity allowed for purchase is 500.'
+[INFO ] [2021-10-25 09:08:34,073]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:34,074] Update Cart - Step 08: Verify Cart Subtotal and Grand total didn't change
+[INFO ] [2021-10-25 09:08:34,382]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:34,440]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:34,443] Add Discount Code - Step 01: Update 'Sony Xperia' QTY to 1
+[INFO ] [2021-10-25 09:08:34,696] Add Discount Code - Step 02: Click 'Update' button on QTY column'
+[INFO ] [2021-10-25 09:08:36,249] Add Discount Code - Step 03: Verify Subtotal column displays '$100.00'
+[INFO ] [2021-10-25 09:08:36,606]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:36,607] Add Discount Code - Step 04: Verify Cart Subtotal and Grand total
+[INFO ] [2021-10-25 09:08:36,660]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:36,713]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:36,713] Add Discount Code - Step 05: Add discount code 'GURU50'
+[INFO ] [2021-10-25 09:08:36,941] Add Discount Code - Step 06: Click 'APPLY'
+[INFO ] [2021-10-25 09:08:38,528] Add Discount Code - Step 07: Verify discount added to cart
+[INFO ] [2021-10-25 09:08:38,930]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:38,992]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:38,992] Add Discount Code - Step 08: Verify Cart Subtotal and Grand total
+[INFO ] [2021-10-25 09:08:39,048]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:39,049] Add Discount Code - Step 09: Empty cart
+[INFO ] [2021-10-25 09:08:40,367] Add Discount Code - Step 10: Verify Cart is empty
+[INFO ] [2021-10-25 09:08:40,632]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:40,699]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 09:08:40,699] Add Discount Code - Step 11: Click 'here' to continue shopping
+[INFO ] [2021-10-25 09:08:41,646] OS name = mac os x
+[INFO ] [2021-10-25 09:08:41,906] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-10-25 11:00:24,714] Register 1 - Step 01: Open Register Page 
+[INFO ] [2021-10-25 11:00:26,603] Register 1 - Step 02: Click Register button 
+[INFO ] [2021-10-25 11:00:26,904] Register 1 - Step 03: Verify Error Message on required fields 
+[INFO ] [2021-10-25 11:00:27,009]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:00:27,120]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:00:27,207]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:00:27,279]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:00:27,354]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:00:27,645] Register 2 - Step 01: Reload Register Page 
+[INFO ] [2021-10-25 11:00:27,646] Register 2 - Step 02: Input in Firstname field with value Automation
+[INFO ] [2021-10-25 11:00:27,940] Register 2 - Step 03: Input in Lastname field with value FC
+[INFO ] [2021-10-25 11:00:28,066] Register 2 - Step 04: Input in Email Address field with value 'AutomationFC@gmail'
+[INFO ] [2021-10-25 11:00:28,245] Register 2 - Step 05: Input in Password field with value '123'
+[INFO ] [2021-10-25 11:00:28,363] Register 2 - Step 06: Input in Confirm Password field with value '123'
+[INFO ] [2021-10-25 11:00:28,485] Register 2 - Step 07: Click on Register button
+[INFO ] [2021-10-25 11:00:28,569] Register 2 - Step 08: Verify error message displays at Email Address field
+[INFO ] [2021-10-25 11:00:28,643]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:00:28,643] Register 2 - Step 09: Verify error message displays at Password field
+[INFO ] [2021-10-25 11:00:28,725]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:00:28,731] Register 3 - Step 01: Reload Register Page 
+[INFO ] [2021-10-25 11:00:28,731] Register 3 - Step 02: Input in Firstname field with value Automation
+[INFO ] [2021-10-25 11:00:28,927] Register 3 - Step 03: Input in Lastname field with value FC
+[INFO ] [2021-10-25 11:00:29,077] Register 3 - Step 04: Input in Email Address field with value automationFC663571@xyz.com
+[INFO ] [2021-10-25 11:00:29,256] Register 3 - Step 05: Input in Password field with value 123123
+[INFO ] [2021-10-25 11:00:29,393] Register 3 - Step 06: Input in Confirm Password field with value 123123547385
+[INFO ] [2021-10-25 11:00:29,550] Register 3 - Step 07: Click on Register button
+[INFO ] [2021-10-25 11:00:29,648] Register 3 - Step 08: Verify error message displays at Confirm Password field
+[INFO ] [2021-10-25 11:00:29,718]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:00:29,730] Register 4 - Step 01: Reload Register Page 
+[INFO ] [2021-10-25 11:00:29,730] Register 4 - Step 02: Input in Firstname field with value Automation
+[INFO ] [2021-10-25 11:00:29,885] Register 4 - Step 03: Input in Lastname field with value FC
+[INFO ] [2021-10-25 11:00:30,015] Register 4 - Step 04: Input in Email Address field with value automationFC663571@xyz.com
+[INFO ] [2021-10-25 11:00:30,182] Register 4 - Step 05: Input in Password field with value 123123
+[INFO ] [2021-10-25 11:00:30,334] Register 4 - Step 06: Input in Confirm Password field with value 123123
+[INFO ] [2021-10-25 11:00:30,448] Register 4 - Step 06: Select Signup for Newsletter checkbox
+[INFO ] [2021-10-25 11:00:30,576] Register 4 - Step 08: Click on Register button
+[INFO ] [2021-10-25 11:00:31,754] OS name = mac os x
+[INFO ] [2021-10-25 11:00:31,983] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-10-25 11:00:35,387] Pre-condition - Step 01: Click on Account menu
+[INFO ] [2021-10-25 11:00:35,530] Pre-condition - Step 02: Open Log In Page from Account menu
+[INFO ] [2021-10-25 11:00:36,603] Login 1 - Step 01: Click on Login button
+[INFO ] [2021-10-25 11:00:36,982] Login 1 - Step 02: Verify required error message displays at Email Address field
+[INFO ] [2021-10-25 11:00:37,053]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:00:37,054] Login 1 - Step 03: Verify required error message displays at Password field
+[INFO ] [2021-10-25 11:00:37,104]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:00:37,111] Login 2 - Step 01: Input Email Address textbox with value gmlogin123@gmail.com
+[INFO ] [2021-10-25 11:00:37,452] Login 2 - Step 02: Input Password textbox with value '123'
+[INFO ] [2021-10-25 11:00:37,623] Login 3 - Step 03: Click on Login button
+[INFO ] [2021-10-25 11:00:37,736] Login 2 - Step 04: Verify validation error message displayes at Password field
+[INFO ] [2021-10-25 11:00:37,773]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:00:37,780] Login 3 - Step 01: Input Email Address Textbox with value 'gmlogin123@gmail'
+[INFO ] [2021-10-25 11:00:37,984] Login 3 - Step 02: Input Password Textbox with value 123123
+[INFO ] [2021-10-25 11:00:38,130] Login 3 - Step 03: Click on Login button
+[INFO ] [2021-10-25 11:00:38,237] Login 3 - Step 04: Verify validation error message displays at Email Adress field
+[INFO ] [2021-10-25 11:00:38,300]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:00:38,305] Login 4 - Step 01: Input Email Address Textbox with value gmlogin123@gmail.com770742
+[INFO ] [2021-10-25 11:00:38,502] Login 4 - Step 02: Input Password Textbox with value 123123963236
+[INFO ] [2021-10-25 11:00:38,666] Login 4 - Step 03: Click on Login button
+[INFO ] [2021-10-25 11:00:40,187] Login 4 - Step 04: Verify error message displays under page title
+[INFO ] [2021-10-25 11:00:40,215]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:00:40,220] Login 5 - Step 01: Input Email Address Textbox with value gmlogin123@gmail.com
+[INFO ] [2021-10-25 11:00:40,662] Login 5 - Step 02: Input Password Textbox with value 123123
+[INFO ] [2021-10-25 11:00:40,819] Login 5 - Step 03: Click on Login button
+[INFO ] [2021-10-25 11:00:42,133] Login 5 - Step 04: Verify My Dashboard page title displays
+[INFO ] [2021-10-25 11:00:42,212]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:00:42,212] Login 5 - Step 05: Verify Welcome Message displays
+[INFO ] [2021-10-25 11:00:42,461]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:00:42,463] OS name = mac os x
+[INFO ] [2021-10-25 11:00:42,676] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-10-25 11:00:46,182] Price Display - Step 01: Click on 'Mobile' menu
+[INFO ] [2021-10-25 11:00:47,227] Price Display - Step 02: Get price of 'Sony Xperia' mobile
+[INFO ] [2021-10-25 11:00:47,263] Price Display - Step 03: Click on 'Sony Xperia' detail
+[INFO ] [2021-10-25 11:00:50,344] Price Display - Step 04: Get price of 'Sony Xperia' on Detail page
+[INFO ] [2021-10-25 11:00:50,381] Price Display - Step 05: Verify Price of 'Sony Xperia' in Product page & Detail page are equal
+[INFO ] [2021-10-25 11:00:50,604]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:00:50,606] OS name = mac os x
+[INFO ] [2021-10-25 11:00:50,829] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-10-25 11:00:54,100] Add To Cart - Step 01: Click on 'Mobile' menu link
+[INFO ] [2021-10-25 11:00:55,332] Add To Cart - Step 02: Add 'Sony Xperia' to cart
+[INFO ] [2021-10-25 11:00:57,201] Add To Cart - Step 03: Verify add to cart success message
+[INFO ] [2021-10-25 11:00:57,258]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:00:57,258] Add To Cart - Step 04: Verify Sony Xperia details displayed in cart
+[INFO ] [2021-10-25 11:00:57,494]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:00:57,551]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:00:57,623]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:00:57,676]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:00:57,721]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:00:57,721] Add To Cart - Step 05: Verify SubTotal and Grand total
+[INFO ] [2021-10-25 11:00:57,772]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:00:57,819]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:00:57,819] Add To Cart - Step 06: Click on 'Continue Shopping' link
+[INFO ] [2021-10-25 11:00:58,627] Add To Cart - Step 07: Add 'iPhone' to cart
+[INFO ] [2021-10-25 11:01:00,330] Add To Cart - Step 09: Verify add to cart success message
+[INFO ] [2021-10-25 11:01:00,563]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:00,563] Add To Cart - Step 10: Verify Iphone details in cart
+[INFO ] [2021-10-25 11:01:00,624]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:00,683]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:00,738]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:00,803]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:00,890]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:00,891] Add To Cart - Step 11: Verify Total and Grand total
+[INFO ] [2021-10-25 11:01:00,929]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:00,970]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:00,970] Add To Cart - Step 12: Remove 'iPhone' from cart
+[INFO ] [2021-10-25 11:01:02,280] Add To Cart - Step 13: Verify Subtotal and Grand total
+[INFO ] [2021-10-25 11:01:02,329]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:02,562]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:02,568] Update Cart - Step 01: Update 'Sony Xperia' QTY to 100
+[INFO ] [2021-10-25 11:01:02,836] Update Cart - Step 02: Click 'Update' button on QTY column'
+[INFO ] [2021-10-25 11:01:04,164] Update Cart - Step 03: Verify Subtotal column displays '$10,000.00'
+[INFO ] [2021-10-25 11:01:04,215]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:04,215] Update Cart - Step 04: Verify Cart Subtotal and Grand total
+[INFO ] [2021-10-25 11:01:04,463]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:04,519]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:04,519] Update Cart - Step 05: Update 'Sony Xperia' QTY to 501
+[INFO ] [2021-10-25 11:01:04,665] Update Cart - Step 06: Click 'Update' button on QTY column'
+[INFO ] [2021-10-25 11:01:05,986] Update Cart - Step 07: Verify error message displays '* The maximum quantity allowed for purchase is 500.'
+[INFO ] [2021-10-25 11:01:06,050]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:06,050] Update Cart - Step 08: Verify Cart Subtotal and Grand total didn't change
+[INFO ] [2021-10-25 11:01:06,292]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:06,343]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:06,347] Add Discount Code - Step 01: Update 'Sony Xperia' QTY to 1
+[INFO ] [2021-10-25 11:01:06,543] Add Discount Code - Step 02: Click 'Update' button on QTY column'
+[INFO ] [2021-10-25 11:01:07,910] Add Discount Code - Step 03: Verify Subtotal column displays '$100.00'
+[INFO ] [2021-10-25 11:01:07,957]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:07,957] Add Discount Code - Step 04: Verify Cart Subtotal and Grand total
+[INFO ] [2021-10-25 11:01:08,004]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:08,057]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:08,058] Add Discount Code - Step 05: Add discount code 'GURU50'
+[INFO ] [2021-10-25 11:01:08,390] Add Discount Code - Step 06: Click 'APPLY'
+[INFO ] [2021-10-25 11:01:09,762] Add Discount Code - Step 07: Verify discount added to cart
+[INFO ] [2021-10-25 11:01:09,814]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:10,053]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:10,060] Add Discount Code - Step 08: Verify Cart Subtotal and Grand total
+[INFO ] [2021-10-25 11:01:10,113]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:10,114] Add Discount Code - Step 09: Empty cart
+[INFO ] [2021-10-25 11:01:11,452] Add Discount Code - Step 10: Verify Cart is empty
+[INFO ] [2021-10-25 11:01:11,528]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:11,804]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:11,805] Add Discount Code - Step 11: Click 'here' to continue shopping
+[INFO ] [2021-10-25 11:01:12,624] OS name = mac os x
+[INFO ] [2021-10-25 11:01:12,803] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-10-25 11:01:17,631] Register 1 - Step 01: Open Register Page 
+[INFO ] [2021-10-25 11:01:18,960] Register 1 - Step 02: Click Register button 
+[INFO ] [2021-10-25 11:01:19,258] Register 1 - Step 03: Verify Error Message on required fields 
+[INFO ] [2021-10-25 11:01:19,361]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:19,443]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:19,533]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:19,599]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:19,659]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:19,666] Register 2 - Step 01: Reload Register Page 
+[INFO ] [2021-10-25 11:01:19,666] Register 2 - Step 02: Input in Firstname field with value Automation
+[INFO ] [2021-10-25 11:01:19,887] Register 2 - Step 03: Input in Lastname field with value FC
+[INFO ] [2021-10-25 11:01:20,023] Register 2 - Step 04: Input in Email Address field with value 'AutomationFC@gmail'
+[INFO ] [2021-10-25 11:01:20,176] Register 2 - Step 05: Input in Password field with value '123'
+[INFO ] [2021-10-25 11:01:20,342] Register 2 - Step 06: Input in Confirm Password field with value '123'
+[INFO ] [2021-10-25 11:01:20,462] Register 2 - Step 07: Click on Register button
+[INFO ] [2021-10-25 11:01:20,558] Register 2 - Step 08: Verify error message displays at Email Address field
+[INFO ] [2021-10-25 11:01:20,662]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:20,662] Register 2 - Step 09: Verify error message displays at Password field
+[INFO ] [2021-10-25 11:01:20,743]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:20,748] Register 3 - Step 01: Reload Register Page 
+[INFO ] [2021-10-25 11:01:20,748] Register 3 - Step 02: Input in Firstname field with value Automation
+[INFO ] [2021-10-25 11:01:20,988] Register 3 - Step 03: Input in Lastname field with value FC
+[INFO ] [2021-10-25 11:01:21,160] Register 3 - Step 04: Input in Email Address field with value automationFC353346@xyz.com
+[INFO ] [2021-10-25 11:01:21,353] Register 3 - Step 05: Input in Password field with value 123123
+[INFO ] [2021-10-25 11:01:21,483] Register 3 - Step 06: Input in Confirm Password field with value 123123396421
+[INFO ] [2021-10-25 11:01:21,614] Register 3 - Step 07: Click on Register button
+[INFO ] [2021-10-25 11:01:21,683] Register 3 - Step 08: Verify error message displays at Confirm Password field
+[INFO ] [2021-10-25 11:01:21,764]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:21,775] Register 4 - Step 01: Reload Register Page 
+[INFO ] [2021-10-25 11:01:21,775] Register 4 - Step 02: Input in Firstname field with value Automation
+[INFO ] [2021-10-25 11:01:21,936] Register 4 - Step 03: Input in Lastname field with value FC
+[INFO ] [2021-10-25 11:01:22,064] Register 4 - Step 04: Input in Email Address field with value automationFC353346@xyz.com
+[INFO ] [2021-10-25 11:01:22,225] Register 4 - Step 05: Input in Password field with value 123123
+[INFO ] [2021-10-25 11:01:22,338] Register 4 - Step 06: Input in Confirm Password field with value 123123
+[INFO ] [2021-10-25 11:01:22,443] Register 4 - Step 06: Select Signup for Newsletter checkbox
+[INFO ] [2021-10-25 11:01:22,572] Register 4 - Step 08: Click on Register button
+[INFO ] [2021-10-25 11:01:24,256] Register 4 - Step 09: Verify Success message displays on My Dashboard page
+[INFO ] [2021-10-25 11:01:24,312]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:24,315] OS name = mac os x
+[INFO ] [2021-10-25 11:01:24,547] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-10-25 11:01:27,997] Pre-condition - Step 01: Click on Account menu
+[INFO ] [2021-10-25 11:01:28,121] Pre-condition - Step 02: Open Log In Page from Account menu
+[INFO ] [2021-10-25 11:01:29,277] Login 1 - Step 01: Click on Login button
+[INFO ] [2021-10-25 11:01:29,574] Login 1 - Step 02: Verify required error message displays at Email Address field
+[INFO ] [2021-10-25 11:01:29,626]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:29,627] Login 1 - Step 03: Verify required error message displays at Password field
+[INFO ] [2021-10-25 11:01:29,667]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:29,671] Login 2 - Step 01: Input Email Address textbox with value gmlogin123@gmail.com
+[INFO ] [2021-10-25 11:01:29,980] Login 2 - Step 02: Input Password textbox with value '123'
+[INFO ] [2021-10-25 11:01:30,114] Login 3 - Step 03: Click on Login button
+[INFO ] [2021-10-25 11:01:30,217] Login 2 - Step 04: Verify validation error message displayes at Password field
+[INFO ] [2021-10-25 11:01:30,261]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:30,264] Login 3 - Step 01: Input Email Address Textbox with value 'gmlogin123@gmail'
+[INFO ] [2021-10-25 11:01:30,457] Login 3 - Step 02: Input Password Textbox with value 123123
+[INFO ] [2021-10-25 11:01:30,666] Login 3 - Step 03: Click on Login button
+[INFO ] [2021-10-25 11:01:30,761] Login 3 - Step 04: Verify validation error message displays at Email Adress field
+[INFO ] [2021-10-25 11:01:30,809]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:30,813] Login 4 - Step 01: Input Email Address Textbox with value gmlogin123@gmail.com459253
+[INFO ] [2021-10-25 11:01:30,991] Login 4 - Step 02: Input Password Textbox with value 123123515428
+[INFO ] [2021-10-25 11:01:31,141] Login 4 - Step 03: Click on Login button
+[INFO ] [2021-10-25 11:01:32,446] Login 4 - Step 04: Verify error message displays under page title
+[INFO ] [2021-10-25 11:01:32,504]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:32,508] Login 5 - Step 01: Input Email Address Textbox with value gmlogin123@gmail.com
+[INFO ] [2021-10-25 11:01:32,939] Login 5 - Step 02: Input Password Textbox with value 123123
+[INFO ] [2021-10-25 11:01:33,095] Login 5 - Step 03: Click on Login button
+[INFO ] [2021-10-25 11:01:34,410] Login 5 - Step 04: Verify My Dashboard page title displays
+[INFO ] [2021-10-25 11:01:34,469]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:34,470] Login 5 - Step 05: Verify Welcome Message displays
+[INFO ] [2021-10-25 11:01:34,677]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:34,679] OS name = mac os x
+[INFO ] [2021-10-25 11:01:34,934] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-10-25 11:01:39,787] Price Display - Step 01: Click on 'Mobile' menu
+[INFO ] [2021-10-25 11:01:40,967] Price Display - Step 02: Get price of 'Sony Xperia' mobile
+[INFO ] [2021-10-25 11:01:41,003] Price Display - Step 03: Click on 'Sony Xperia' detail
+[INFO ] [2021-10-25 11:01:43,803] Price Display - Step 04: Get price of 'Sony Xperia' on Detail page
+[INFO ] [2021-10-25 11:01:43,835] Price Display - Step 05: Verify Price of 'Sony Xperia' in Product page & Detail page are equal
+[INFO ] [2021-10-25 11:01:43,850]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:43,853] OS name = mac os x
+[INFO ] [2021-10-25 11:01:44,093] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-10-25 11:01:47,498] Add To Cart - Step 01: Click on 'Mobile' menu link
+[INFO ] [2021-10-25 11:01:48,781] Add To Cart - Step 02: Add 'Sony Xperia' to cart
+[INFO ] [2021-10-25 11:01:50,967] Add To Cart - Step 03: Verify add to cart success message
+[INFO ] [2021-10-25 11:01:51,235]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:51,235] Add To Cart - Step 04: Verify Sony Xperia details displayed in cart
+[INFO ] [2021-10-25 11:01:51,291]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:51,347]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:51,416]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:51,464]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:51,509]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:51,509] Add To Cart - Step 05: Verify SubTotal and Grand total
+[INFO ] [2021-10-25 11:01:51,554]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:51,597]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:51,597] Add To Cart - Step 06: Click on 'Continue Shopping' link
+[INFO ] [2021-10-25 11:01:52,537] Add To Cart - Step 07: Add 'iPhone' to cart
+[INFO ] [2021-10-25 11:01:54,362] Add To Cart - Step 09: Verify add to cart success message
+[INFO ] [2021-10-25 11:01:54,414]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:54,414] Add To Cart - Step 10: Verify Iphone details in cart
+[INFO ] [2021-10-25 11:01:54,681]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:54,739]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:54,804]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:54,867]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:54,935]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:54,935] Add To Cart - Step 11: Verify Total and Grand total
+[INFO ] [2021-10-25 11:01:54,980]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:55,021]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:55,022] Add To Cart - Step 12: Remove 'iPhone' from cart
+[INFO ] [2021-10-25 11:01:56,404] Add To Cart - Step 13: Verify Subtotal and Grand total
+[INFO ] [2021-10-25 11:01:56,456]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:56,688]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:56,693] Update Cart - Step 01: Update 'Sony Xperia' QTY to 100
+[INFO ] [2021-10-25 11:01:56,997] Update Cart - Step 02: Click 'Update' button on QTY column'
+[INFO ] [2021-10-25 11:01:58,412] Update Cart - Step 03: Verify Subtotal column displays '$10,000.00'
+[INFO ] [2021-10-25 11:01:58,465]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:58,465] Update Cart - Step 04: Verify Cart Subtotal and Grand total
+[INFO ] [2021-10-25 11:01:58,717]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:58,768]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:01:58,769] Update Cart - Step 05: Update 'Sony Xperia' QTY to 501
+[INFO ] [2021-10-25 11:01:58,908] Update Cart - Step 06: Click 'Update' button on QTY column'
+[INFO ] [2021-10-25 11:02:00,471] Update Cart - Step 07: Verify error message displays '* The maximum quantity allowed for purchase is 500.'
+[INFO ] [2021-10-25 11:02:00,525]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:02:00,525] Update Cart - Step 08: Verify Cart Subtotal and Grand total didn't change
+[INFO ] [2021-10-25 11:02:00,802]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:02:00,853]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:02:00,857] Add Discount Code - Step 01: Update 'Sony Xperia' QTY to 1
+[INFO ] [2021-10-25 11:02:01,061] Add Discount Code - Step 02: Click 'Update' button on QTY column'
+[INFO ] [2021-10-25 11:02:02,534] Add Discount Code - Step 03: Verify Subtotal column displays '$100.00'
+[INFO ] [2021-10-25 11:02:02,597]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:02:02,597] Add Discount Code - Step 04: Verify Cart Subtotal and Grand total
+[INFO ] [2021-10-25 11:02:02,836]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:02:02,885]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:02:02,885] Add Discount Code - Step 05: Add discount code 'GURU50'
+[INFO ] [2021-10-25 11:02:03,029] Add Discount Code - Step 06: Click 'APPLY'
+[INFO ] [2021-10-25 11:02:04,372] Add Discount Code - Step 07: Verify discount added to cart
+[INFO ] [2021-10-25 11:02:04,656]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:02:04,705]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:02:04,707] Add Discount Code - Step 08: Verify Cart Subtotal and Grand total
+[INFO ] [2021-10-25 11:02:04,756]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:02:04,756] Add Discount Code - Step 09: Empty cart
+[INFO ] [2021-10-25 11:02:05,962] Add Discount Code - Step 10: Verify Cart is empty
+[INFO ] [2021-10-25 11:02:06,016]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:02:06,281]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:02:06,282] Add Discount Code - Step 11: Click 'here' to continue shopping
+[INFO ] [2021-10-25 11:02:07,110] OS name = mac os x
+[INFO ] [2021-10-25 11:02:07,361] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-10-25 11:03:11,745] Register 1 - Step 01: Open Register Page 
+[INFO ] [2021-10-25 11:03:13,887] Register 1 - Step 02: Click Register button 
+[INFO ] [2021-10-25 11:03:14,209] Register 1 - Step 03: Verify Error Message on required fields 
+[INFO ] [2021-10-25 11:03:14,368]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:14,491]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:14,559]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:14,654]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:14,732]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:15,024] Register 2 - Step 01: Reload Register Page 
+[INFO ] [2021-10-25 11:03:15,025] Register 2 - Step 02: Input in Firstname field with value Automation
+[INFO ] [2021-10-25 11:03:15,305] Register 2 - Step 03: Input in Lastname field with value FC
+[INFO ] [2021-10-25 11:03:15,459] Register 2 - Step 04: Input in Email Address field with value 'AutomationFC@gmail'
+[INFO ] [2021-10-25 11:03:15,662] Register 2 - Step 05: Input in Password field with value '123'
+[INFO ] [2021-10-25 11:03:15,826] Register 2 - Step 06: Input in Confirm Password field with value '123'
+[INFO ] [2021-10-25 11:03:16,001] Register 2 - Step 07: Click on Register button
+[INFO ] [2021-10-25 11:03:16,133] Register 2 - Step 08: Verify error message displays at Email Address field
+[INFO ] [2021-10-25 11:03:16,230]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:16,233] Register 2 - Step 09: Verify error message displays at Password field
+[INFO ] [2021-10-25 11:03:16,307]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:16,316] Register 3 - Step 01: Reload Register Page 
+[INFO ] [2021-10-25 11:03:16,317] Register 3 - Step 02: Input in Firstname field with value Automation
+[INFO ] [2021-10-25 11:03:16,495] Register 3 - Step 03: Input in Lastname field with value FC
+[INFO ] [2021-10-25 11:03:16,663] Register 3 - Step 04: Input in Email Address field with value automationFC118350@xyz.com
+[INFO ] [2021-10-25 11:03:16,874] Register 3 - Step 05: Input in Password field with value 123123
+[INFO ] [2021-10-25 11:03:17,045] Register 3 - Step 06: Input in Confirm Password field with value 123123814613
+[INFO ] [2021-10-25 11:03:17,223] Register 3 - Step 07: Click on Register button
+[INFO ] [2021-10-25 11:03:17,307] Register 3 - Step 08: Verify error message displays at Confirm Password field
+[INFO ] [2021-10-25 11:03:17,389]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:17,403] Register 4 - Step 01: Reload Register Page 
+[INFO ] [2021-10-25 11:03:17,404] Register 4 - Step 02: Input in Firstname field with value Automation
+[INFO ] [2021-10-25 11:03:17,587] Register 4 - Step 03: Input in Lastname field with value FC
+[INFO ] [2021-10-25 11:03:17,880] Register 4 - Step 04: Input in Email Address field with value automationFC118350@xyz.com
+[INFO ] [2021-10-25 11:03:18,049] Register 4 - Step 05: Input in Password field with value 123123
+[INFO ] [2021-10-25 11:03:18,181] Register 4 - Step 06: Input in Confirm Password field with value 123123
+[INFO ] [2021-10-25 11:03:18,292] Register 4 - Step 06: Select Signup for Newsletter checkbox
+[INFO ] [2021-10-25 11:03:18,407] Register 4 - Step 08: Click on Register button
+[INFO ] [2021-10-25 11:03:19,906] Register 4 - Step 09: Verify Success message displays on My Dashboard page
+[INFO ] [2021-10-25 11:03:20,146]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:20,152] OS name = mac os x
+[INFO ] [2021-10-25 11:03:20,410] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-10-25 11:03:23,788] Pre-condition - Step 01: Click on Account menu
+[INFO ] [2021-10-25 11:03:23,880] Pre-condition - Step 02: Open Log In Page from Account menu
+[INFO ] [2021-10-25 11:03:24,946] Login 1 - Step 01: Click on Login button
+[INFO ] [2021-10-25 11:03:25,212] Login 1 - Step 02: Verify required error message displays at Email Address field
+[INFO ] [2021-10-25 11:03:25,289]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:25,289] Login 1 - Step 03: Verify required error message displays at Password field
+[INFO ] [2021-10-25 11:03:25,324]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:25,329] Login 2 - Step 01: Input Email Address textbox with value gmlogin123@gmail.com
+[INFO ] [2021-10-25 11:03:25,554] Login 2 - Step 02: Input Password textbox with value '123'
+[INFO ] [2021-10-25 11:03:25,697] Login 3 - Step 03: Click on Login button
+[INFO ] [2021-10-25 11:03:25,782] Login 2 - Step 04: Verify validation error message displayes at Password field
+[INFO ] [2021-10-25 11:03:25,834]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:25,840] Login 3 - Step 01: Input Email Address Textbox with value 'gmlogin123@gmail'
+[INFO ] [2021-10-25 11:03:26,005] Login 3 - Step 02: Input Password Textbox with value 123123
+[INFO ] [2021-10-25 11:03:26,118] Login 3 - Step 03: Click on Login button
+[INFO ] [2021-10-25 11:03:26,210] Login 3 - Step 04: Verify validation error message displays at Email Adress field
+[INFO ] [2021-10-25 11:03:26,252]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:26,260] Login 4 - Step 01: Input Email Address Textbox with value gmlogin123@gmail.com479690
+[INFO ] [2021-10-25 11:03:26,425] Login 4 - Step 02: Input Password Textbox with value 123123617004
+[INFO ] [2021-10-25 11:03:26,561] Login 4 - Step 03: Click on Login button
+[INFO ] [2021-10-25 11:03:27,985] Login 4 - Step 04: Verify error message displays under page title
+[INFO ] [2021-10-25 11:03:28,014]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:28,017] Login 5 - Step 01: Input Email Address Textbox with value gmlogin123@gmail.com
+[INFO ] [2021-10-25 11:03:28,478] Login 5 - Step 02: Input Password Textbox with value 123123
+[INFO ] [2021-10-25 11:03:28,597] Login 5 - Step 03: Click on Login button
+[INFO ] [2021-10-25 11:03:30,284] Login 5 - Step 04: Verify My Dashboard page title displays
+[INFO ] [2021-10-25 11:03:30,577]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:30,578] Login 5 - Step 05: Verify Welcome Message displays
+[INFO ] [2021-10-25 11:03:30,606]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:30,609] OS name = mac os x
+[INFO ] [2021-10-25 11:03:30,809] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-10-25 11:03:34,231] Price Display - Step 01: Click on 'Mobile' menu
+[INFO ] [2021-10-25 11:03:35,397] Price Display - Step 02: Get price of 'Sony Xperia' mobile
+[INFO ] [2021-10-25 11:03:35,436] Price Display - Step 03: Click on 'Sony Xperia' detail
+[INFO ] [2021-10-25 11:03:37,062] Price Display - Step 04: Get price of 'Sony Xperia' on Detail page
+[INFO ] [2021-10-25 11:03:37,094] Price Display - Step 05: Verify Price of 'Sony Xperia' in Product page & Detail page are equal
+[INFO ] [2021-10-25 11:03:37,110]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:37,112] OS name = mac os x
+[INFO ] [2021-10-25 11:03:37,335] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-10-25 11:03:41,738] Add To Cart - Step 01: Click on 'Mobile' menu link
+[INFO ] [2021-10-25 11:03:42,918] Add To Cart - Step 02: Add 'Sony Xperia' to cart
+[INFO ] [2021-10-25 11:03:44,844] Add To Cart - Step 03: Verify add to cart success message
+[INFO ] [2021-10-25 11:03:44,894]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:44,894] Add To Cart - Step 04: Verify Sony Xperia details displayed in cart
+[INFO ] [2021-10-25 11:03:45,089]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:45,150]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:45,205]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:45,263]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:45,311]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:45,311] Add To Cart - Step 05: Verify SubTotal and Grand total
+[INFO ] [2021-10-25 11:03:45,361]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:45,409]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:45,409] Add To Cart - Step 06: Click on 'Continue Shopping' link
+[INFO ] [2021-10-25 11:03:46,210] Add To Cart - Step 07: Add 'iPhone' to cart
+[INFO ] [2021-10-25 11:03:47,657] Add To Cart - Step 09: Verify add to cart success message
+[INFO ] [2021-10-25 11:03:47,718]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:47,724] Add To Cart - Step 10: Verify Iphone details in cart
+[INFO ] [2021-10-25 11:03:47,973]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:48,058]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:48,115]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:48,180]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:48,226]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:48,226] Add To Cart - Step 11: Verify Total and Grand total
+[INFO ] [2021-10-25 11:03:48,267]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:48,316]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:48,316] Add To Cart - Step 12: Remove 'iPhone' from cart
+[INFO ] [2021-10-25 11:03:50,036] Add To Cart - Step 13: Verify Subtotal and Grand total
+[INFO ] [2021-10-25 11:03:50,085]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:50,327]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:50,333] Update Cart - Step 01: Update 'Sony Xperia' QTY to 100
+[INFO ] [2021-10-25 11:03:50,612] Update Cart - Step 02: Click 'Update' button on QTY column'
+[INFO ] [2021-10-25 11:03:51,909] Update Cart - Step 03: Verify Subtotal column displays '$10,000.00'
+[INFO ] [2021-10-25 11:03:51,969]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:51,969] Update Cart - Step 04: Verify Cart Subtotal and Grand total
+[INFO ] [2021-10-25 11:03:52,224]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:52,279]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:52,279] Update Cart - Step 05: Update 'Sony Xperia' QTY to 501
+[INFO ] [2021-10-25 11:03:52,461] Update Cart - Step 06: Click 'Update' button on QTY column'
+[INFO ] [2021-10-25 11:03:53,827] Update Cart - Step 07: Verify error message displays '* The maximum quantity allowed for purchase is 500.'
+[INFO ] [2021-10-25 11:03:54,103]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:54,103] Update Cart - Step 08: Verify Cart Subtotal and Grand total didn't change
+[INFO ] [2021-10-25 11:03:54,153]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:54,201]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:54,204] Add Discount Code - Step 01: Update 'Sony Xperia' QTY to 1
+[INFO ] [2021-10-25 11:03:54,371] Add Discount Code - Step 02: Click 'Update' button on QTY column'
+[INFO ] [2021-10-25 11:03:55,748] Add Discount Code - Step 03: Verify Subtotal column displays '$100.00'
+[INFO ] [2021-10-25 11:03:55,794]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:55,795] Add Discount Code - Step 04: Verify Cart Subtotal and Grand total
+[INFO ] [2021-10-25 11:03:56,035]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:56,083]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:56,083] Add Discount Code - Step 05: Add discount code 'GURU50'
+[INFO ] [2021-10-25 11:03:56,241] Add Discount Code - Step 06: Click 'APPLY'
+[INFO ] [2021-10-25 11:03:57,729] Add Discount Code - Step 07: Verify discount added to cart
+[INFO ] [2021-10-25 11:03:57,785]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:58,013]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:58,014] Add Discount Code - Step 08: Verify Cart Subtotal and Grand total
+[INFO ] [2021-10-25 11:03:58,060]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:58,060] Add Discount Code - Step 09: Empty cart
+[INFO ] [2021-10-25 11:03:59,380] Add Discount Code - Step 10: Verify Cart is empty
+[INFO ] [2021-10-25 11:03:59,428]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:59,660]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 11:03:59,661] Add Discount Code - Step 11: Click 'here' to continue shopping
+[INFO ] [2021-10-25 11:04:00,434] OS name = mac os x
+[INFO ] [2021-10-25 11:04:00,642] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-10-25 15:11:46,423] Register 1 - Step 01: Open Register Page 
+[INFO ] [2021-10-25 15:11:49,659] Register 1 - Step 02: Click Register button 
+[INFO ] [2021-10-25 15:11:49,783] Register 1 - Step 03: Verify Error Message on required fields 
+[INFO ] [2021-10-25 15:11:50,425]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:11:50,569]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:11:50,742]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:11:50,889]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:11:50,960]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:11:51,154] Register 2 - Step 01: Reload Register Page 
+[INFO ] [2021-10-25 15:11:51,154] Register 2 - Step 02: Input in Firstname field with value Automation
+[INFO ] [2021-10-25 15:11:51,384] Register 2 - Step 03: Input in Lastname field with value FC
+[INFO ] [2021-10-25 15:11:51,537] Register 2 - Step 04: Input in Email Address field with value 'AutomationFC@gmail'
+[INFO ] [2021-10-25 15:11:51,721] Register 2 - Step 05: Input in Password field with value '123'
+[INFO ] [2021-10-25 15:11:51,884] Register 2 - Step 06: Input in Confirm Password field with value '123'
+[INFO ] [2021-10-25 15:11:52,055] Register 2 - Step 07: Click on Register button
+[INFO ] [2021-10-25 15:11:52,185] Register 2 - Step 08: Verify error message displays at Email Address field
+[INFO ] [2021-10-25 15:11:52,317]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:11:52,317] Register 2 - Step 09: Verify error message displays at Password field
+[INFO ] [2021-10-25 15:11:52,443]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:11:52,457] Register 3 - Step 01: Reload Register Page 
+[INFO ] [2021-10-25 15:11:52,458] Register 3 - Step 02: Input in Firstname field with value Automation
+[INFO ] [2021-10-25 15:11:52,746] Register 3 - Step 03: Input in Lastname field with value FC
+[INFO ] [2021-10-25 15:11:52,989] Register 3 - Step 04: Input in Email Address field with value automationFC9198@xyz.com
+[INFO ] [2021-10-25 15:11:53,302] Register 3 - Step 05: Input in Password field with value 123123
+[INFO ] [2021-10-25 15:11:53,420] Register 3 - Step 06: Input in Confirm Password field with value 123123409172
+[INFO ] [2021-10-25 15:11:53,571] Register 3 - Step 07: Click on Register button
+[INFO ] [2021-10-25 15:11:53,673] Register 3 - Step 08: Verify error message displays at Confirm Password field
+[INFO ] [2021-10-25 15:11:53,762]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:11:53,773] Register 4 - Step 01: Reload Register Page 
+[INFO ] [2021-10-25 15:11:53,773] Register 4 - Step 02: Input in Firstname field with value Automation
+[INFO ] [2021-10-25 15:11:54,021] Register 4 - Step 03: Input in Lastname field with value FC
+[INFO ] [2021-10-25 15:11:54,182] Register 4 - Step 04: Input in Email Address field with value automationFC9198@xyz.com
+[INFO ] [2021-10-25 15:11:54,408] Register 4 - Step 05: Input in Password field with value 123123
+[INFO ] [2021-10-25 15:11:54,590] Register 4 - Step 06: Input in Confirm Password field with value 123123
+[INFO ] [2021-10-25 15:11:54,792] Register 4 - Step 06: Select Signup for Newsletter checkbox
+[INFO ] [2021-10-25 15:11:54,940] Register 4 - Step 08: Click on Register button
+[INFO ] [2021-10-25 15:11:57,381] Register 4 - Step 09: Verify Success message displays on My Dashboard page
+[INFO ] [2021-10-25 15:11:57,710]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:11:57,714] OS name = mac os x
+[INFO ] [2021-10-25 15:11:58,009] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-10-25 15:12:06,541] Pre-condition - Step 01: Click on Account menu
+[INFO ] [2021-10-25 15:12:06,643] Pre-condition - Step 02: Open Log In Page from Account menu
+[INFO ] [2021-10-25 15:12:09,380] Login 1 - Step 01: Click on Login button
+[INFO ] [2021-10-25 15:12:09,492] Login 1 - Step 02: Verify required error message displays at Email Address field
+[INFO ] [2021-10-25 15:12:09,571]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:12:09,572] Login 1 - Step 03: Verify required error message displays at Password field
+[INFO ] [2021-10-25 15:12:09,671]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:12:09,677] Login 2 - Step 01: Input Email Address textbox with value gmlogin123@gmail.com
+[INFO ] [2021-10-25 15:12:10,171] Login 2 - Step 02: Input Password textbox with value '123'
+[INFO ] [2021-10-25 15:12:10,627] Login 3 - Step 03: Click on Login button
+[INFO ] [2021-10-25 15:12:10,724] Login 2 - Step 04: Verify validation error message displayes at Password field
+[INFO ] [2021-10-25 15:12:10,784]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:12:10,791] Login 3 - Step 01: Input Email Address Textbox with value 'gmlogin123@gmail'
+[INFO ] [2021-10-25 15:12:11,077] Login 3 - Step 02: Input Password Textbox with value 123123
+[INFO ] [2021-10-25 15:12:11,272] Login 3 - Step 03: Click on Login button
+[INFO ] [2021-10-25 15:12:11,421] Login 3 - Step 04: Verify validation error message displays at Email Adress field
+[INFO ] [2021-10-25 15:12:11,475]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:12:11,481] Login 4 - Step 01: Input Email Address Textbox with value gmlogin123@gmail.com881652
+[INFO ] [2021-10-25 15:12:11,719] Login 4 - Step 02: Input Password Textbox with value 1231234149
+[INFO ] [2021-10-25 15:12:11,957] Login 4 - Step 03: Click on Login button
+[INFO ] [2021-10-25 15:12:14,423] Login 4 - Step 04: Verify error message displays under page title
+[INFO ] [2021-10-25 15:12:14,477]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:12:14,493] Login 5 - Step 01: Input Email Address Textbox with value gmlogin123@gmail.com
+[INFO ] [2021-10-25 15:12:15,026] Login 5 - Step 02: Input Password Textbox with value 123123
+[INFO ] [2021-10-25 15:12:15,240] Login 5 - Step 03: Click on Login button
+[INFO ] [2021-10-25 15:12:17,748] Login 5 - Step 04: Verify My Dashboard page title displays
+[INFO ] [2021-10-25 15:12:17,863]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:12:17,863] Login 5 - Step 05: Verify Welcome Message displays
+[INFO ] [2021-10-25 15:12:18,124]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:12:18,126] OS name = mac os x
+[INFO ] [2021-10-25 15:12:18,317] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-10-25 15:12:24,651] Price Display - Step 01: Click on 'Mobile' menu
+[INFO ] [2021-10-25 15:12:29,135] Price Display - Step 02: Get price of 'Sony Xperia' mobile
+[INFO ] [2021-10-25 15:12:29,168] Price Display - Step 03: Click on 'Sony Xperia' detail
+[INFO ] [2021-10-25 15:12:32,571] Price Display - Step 04: Get price of 'Sony Xperia' on Detail page
+[INFO ] [2021-10-25 15:12:32,607] Price Display - Step 05: Verify Price of 'Sony Xperia' in Product page & Detail page are equal
+[INFO ] [2021-10-25 15:12:32,624]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:12:32,626] OS name = mac os x
+[INFO ] [2021-10-25 15:12:32,783] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-10-25 15:12:51,068] Add To Cart - Step 01: Click on 'Mobile' menu link
+[INFO ] [2021-10-25 15:12:52,767] Add To Cart - Step 02: Add 'Sony Xperia' to cart
+[INFO ] [2021-10-25 15:12:56,979] Add To Cart - Step 03: Verify add to cart success message
+[INFO ] [2021-10-25 15:12:57,041]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:12:57,041] Add To Cart - Step 04: Verify Sony Xperia details displayed in cart
+[INFO ] [2021-10-25 15:12:57,301]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:12:57,360]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:12:57,428]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:12:57,471]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:12:57,519]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:12:57,519] Add To Cart - Step 05: Verify SubTotal and Grand total
+[INFO ] [2021-10-25 15:12:57,565]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:12:57,617]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:12:57,617] Add To Cart - Step 06: Click on 'Continue Shopping' link
+[INFO ] [2021-10-25 15:12:58,730] Add To Cart - Step 07: Add 'iPhone' to cart
+[INFO ] [2021-10-25 15:13:01,012] Add To Cart - Step 09: Verify add to cart success message
+[INFO ] [2021-10-25 15:13:01,086]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:13:01,086] Add To Cart - Step 10: Verify Iphone details in cart
+[INFO ] [2021-10-25 15:13:01,407]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:13:01,491]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:13:01,558]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:13:01,613]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:13:01,662]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:13:01,662] Add To Cart - Step 11: Verify Total and Grand total
+[INFO ] [2021-10-25 15:13:01,704]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:13:01,749]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:13:01,749] Add To Cart - Step 12: Remove 'iPhone' from cart
+[INFO ] [2021-10-25 15:13:03,997] Add To Cart - Step 13: Verify Subtotal and Grand total
+[INFO ] [2021-10-25 15:13:04,070]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:13:04,138]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:13:04,148] Update Cart - Step 01: Update 'Sony Xperia' QTY to 100
+[INFO ] [2021-10-25 15:13:04,704] Update Cart - Step 02: Click 'Update' button on QTY column'
+[INFO ] [2021-10-25 15:13:07,274] Update Cart - Step 03: Verify Subtotal column displays '$10,000.00'
+[INFO ] [2021-10-25 15:13:07,337]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:13:07,337] Update Cart - Step 04: Verify Cart Subtotal and Grand total
+[INFO ] [2021-10-25 15:13:07,630]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:13:07,682]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:13:07,682] Update Cart - Step 05: Update 'Sony Xperia' QTY to 501
+[INFO ] [2021-10-25 15:13:07,903] Update Cart - Step 06: Click 'Update' button on QTY column'
+[INFO ] [2021-10-25 15:13:10,102] Update Cart - Step 07: Verify error message displays '* The maximum quantity allowed for purchase is 500.'
+[INFO ] [2021-10-25 15:13:10,485]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:13:10,485] Update Cart - Step 08: Verify Cart Subtotal and Grand total didn't change
+[INFO ] [2021-10-25 15:13:10,535]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:13:10,586]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:13:10,591] Add Discount Code - Step 01: Update 'Sony Xperia' QTY to 1
+[INFO ] [2021-10-25 15:13:10,822] Add Discount Code - Step 02: Click 'Update' button on QTY column'
+[INFO ] [2021-10-25 15:13:13,120] Add Discount Code - Step 03: Verify Subtotal column displays '$100.00'
+[INFO ] [2021-10-25 15:13:13,187]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:13:13,187] Add Discount Code - Step 04: Verify Cart Subtotal and Grand total
+[INFO ] [2021-10-25 15:13:13,519]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:13:13,585]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:13:13,586] Add Discount Code - Step 05: Add discount code 'GURU50'
+[INFO ] [2021-10-25 15:13:13,746] Add Discount Code - Step 06: Click 'APPLY'
+[INFO ] [2021-10-25 15:13:16,355] Add Discount Code - Step 07: Verify discount added to cart
+[INFO ] [2021-10-25 15:13:16,426]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:13:16,492]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:13:16,492] Add Discount Code - Step 08: Verify Cart Subtotal and Grand total
+[INFO ] [2021-10-25 15:13:16,768]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:13:16,768] Add Discount Code - Step 09: Empty cart
+[INFO ] [2021-10-25 15:13:18,300] Add Discount Code - Step 10: Verify Cart is empty
+[INFO ] [2021-10-25 15:13:18,377]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:13:18,683]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-25 15:13:18,683] Add Discount Code - Step 11: Click 'here' to continue shopping
+[INFO ] [2021-10-25 15:13:19,971] OS name = mac os x
+[INFO ] [2021-10-25 15:13:20,176] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2022-01-11 19:26:25,981] Register 1 - Step 01: Open Register Page 

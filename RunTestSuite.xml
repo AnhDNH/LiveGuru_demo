@@ -1,0 +1,35 @@
+<suite name="LiveGuru" parallel="false">
+
+    <listeners>
+        <listener class-name="common.configs.MethodListener" />
+    </listeners>
+
+    <test name="Run on CHROME">
+        <parameter name="browser" value="chrome" />
+        <classes>
+<!--            <class name="com.liveguru.users.User_01_Register"/>-->
+            <class name="com.liveguru.users.User_02_Login" />
+<!--            <class name="com.liveguru.users.User_03_Product_Price_Display"/>-->
+<!--            <class name="com.liveguru.users.User_04_Purchase" />-->
+        </classes>
+    </test>
+<!--    <test name="Run on FIREFOX">-->
+<!--        <parameter name="browser" value="firefox" />-->
+<!--        <classes>-->
+<!--            <class name="com.liveguru.users.User_01_Register"/>-->
+<!--            <class name="com.liveguru.users.User_02_Login" />-->
+<!--            <class name="com.liveguru.users.User_03_Product_Price_Display"/>-->
+<!--            <class name="com.liveguru.users.User_04_Purchase" />-->
+<!--        </classes>-->
+<!--    </test>&lt;!&ndash; Test &ndash;&gt;-->
+<!--<test name="Run on EDGE">-->
+<!--<parameter name="browser" value="edge" />-->
+<!--<classes>-->
+<!--    <class name="com.liveguru.users.User_01_Register"/>-->
+<!--    <class name="com.liveguru.users.User_02_Login" />-->
+<!--    <class name="com.liveguru.users.User_03_Product_Price_Display"/>-->
+<!--    <class name="com.liveguru.users.User_04_Purchase" />-->
+<!--</classes>-->
+<!--</test>&lt;!&ndash; Test &ndash;&gt;-->
+</suite> <!-- Suite -->
+
