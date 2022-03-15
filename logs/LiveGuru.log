@@ -1293,3 +1293,34 @@
 [INFO ] [2021-10-25 15:13:19,971] OS name = mac os x
 [INFO ] [2021-10-25 15:13:20,176] ---------- QUIT BROWSER SUCCESS ----------
 [INFO ] [2022-01-11 19:26:25,981] Register 1 - Step 01: Open Register Page 
+[INFO ] [2022-03-15 10:22:12,423] Pre-condition - Step 01: Click on Account menu
+[INFO ] [2022-03-15 10:22:12,616] Pre-condition - Step 02: Open Log In Page from Account menu
+[INFO ] [2022-03-15 10:22:13,991] Login 1 - Step 01: Click on Login button
+[INFO ] [2022-03-15 10:22:14,340] Login 1 - Step 02: Verify required error message displays at Email Address field
+[INFO ] [2022-03-15 10:22:14,431]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-03-15 10:22:14,431] Login 1 - Step 03: Verify required error message displays at Password field
+[INFO ] [2022-03-15 10:22:14,463]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-03-15 10:22:14,689] Login 2 - Step 01: Input Email Address textbox with value gmlogin123@gmail.com
+[INFO ] [2022-03-15 10:22:14,978] Login 2 - Step 02: Input Password textbox with value '123'
+[INFO ] [2022-03-15 10:22:15,155] Login 3 - Step 03: Click on Login button
+[INFO ] [2022-03-15 10:22:15,269] Login 2 - Step 04: Verify validation error message displayes at Password field
+[INFO ] [2022-03-15 10:22:15,310]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-03-15 10:22:15,326] Login 3 - Step 01: Input Email Address Textbox with value 'gmlogin123@gmail'
+[INFO ] [2022-03-15 10:22:15,530] Login 3 - Step 02: Input Password Textbox with value 123123
+[INFO ] [2022-03-15 10:22:15,698] Login 3 - Step 03: Click on Login button
+[INFO ] [2022-03-15 10:22:15,828] Login 3 - Step 04: Verify validation error message displays at Email Adress field
+[INFO ] [2022-03-15 10:22:15,867]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-03-15 10:22:15,877] Login 4 - Step 01: Input Email Address Textbox with value gmlogin123@gmail.com77268
+[INFO ] [2022-03-15 10:22:16,070] Login 4 - Step 02: Input Password Textbox with value 123123478961
+[INFO ] [2022-03-15 10:22:16,234] Login 4 - Step 03: Click on Login button
+[INFO ] [2022-03-15 10:22:17,617] Login 4 - Step 04: Verify error message displays under page title
+[INFO ] [2022-03-15 10:22:17,657]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-03-15 10:22:17,664] Login 5 - Step 01: Input Email Address Textbox with value gmlogin123@gmail.com
+[INFO ] [2022-03-15 10:22:18,160] Login 5 - Step 02: Input Password Textbox with value 123123
+[INFO ] [2022-03-15 10:22:18,418] Login 5 - Step 03: Click on Login button
+[INFO ] [2022-03-15 10:22:19,976] Login 5 - Step 04: Verify My Dashboard page title displays
+[INFO ] [2022-03-15 10:22:20,291]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-03-15 10:22:20,292] Login 5 - Step 05: Verify Welcome Message displays
+[INFO ] [2022-03-15 10:22:20,325]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-03-15 10:22:20,333] OS name = mac os x
+[INFO ] [2022-03-15 10:22:20,520] ---------- QUIT BROWSER SUCCESS ----------

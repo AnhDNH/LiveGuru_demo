@@ -145,7 +145,8 @@
                         -Dcucumber.options="--plugin io.qameta.allure.cucumber4jvm.AllureCucumber4Jvm"
                     </argLine>
                     <suiteXmlFiles>
-                        <suiteXmlFile>${project.basedir}/RunTestSuite.xml</suiteXmlFile>
+                        <!--suppress UnresolvedMavenProperty -->
+                        <suiteXmlFile>${project.basedir}/${testsuite}</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
                 <dependencies>
